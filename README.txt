@@ -7,5 +7,3 @@ Cupim boudin short loin alcatra drumstick doner. Jerky flank chislic short ribs.
 Pork chop boudin ground round flank alcatra spare ribs pork belly ribeye capicola beef. Pork chop corned beef doner jerky. Chicken kevin pastrami, ball tip pork loin beef kielbasa. Fatback brisket hamburger andouille tenderloin. Cow ham hock swine salami, chislic andouille tri-tip short loin tongue jerky spare ribs cupim turducken sausage pork. Sausage buffalo rump beef jowl ribeye hamburger prosciutto t-bone frankfurter pork belly flank drumstick andouille leberkas.
 
 Prosciutto ground round biltong, tenderloin strip steak tri-tip picanha jowl. Bresaola turkey salami bacon buffalo drumstick chuck pork chop pork shankle picanha hamburger. Swine turkey brisket biltong chuck ham hock rump spare ribs. Chuck alcatra buffalo andouille turkey. Biltong corned beef sausage, buffalo spare ribs pastrami salami. Beef ribs flank venison, pork belly rump short loin brisket spare ribs kielbasa shank.
-
-Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
