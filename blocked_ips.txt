@@ -108,3 +108,4 @@
 50.114.84.245 # llopez
 50.114.84.194 # ftp_admi
 198.44.129.79 # exchangeadmin
+68.235.46.63 # faxserver
