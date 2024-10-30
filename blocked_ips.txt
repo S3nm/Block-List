@@ -240,3 +240,4 @@
 204.152.216.118 # webmaster
 193.41.68.234 # ARAdmin
 37.19.200.146 # production
+146.70.173.81 # boardroom
