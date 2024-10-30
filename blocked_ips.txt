@@ -141,3 +141,4 @@
 68.235.46.51 # portaluser
 68.235.46.48 # print
 185.156.46.155 # receiving
+146.70.165.248 # inspection
