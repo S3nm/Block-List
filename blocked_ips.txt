@@ -631,3 +631,4 @@
 198.44.136.207 # auditor
 68.235.46.23 # michelle
 209.54.101.144 # financeiro
+143.244.47.90 # internet
