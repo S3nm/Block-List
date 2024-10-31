@@ -711,3 +711,5 @@
 68.235.46.151 # elvis
 89.116.56.170 # ataylor
 68.235.46.46 # frontoffice
+74.80.255.145 # rthomas
+74.80.255.7 # aanderson
