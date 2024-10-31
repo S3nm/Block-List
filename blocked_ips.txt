@@ -1042,3 +1042,4 @@
 146.70.168.154 # burt
 198.44.136.50 # customer
 37.19.221.165 # sharepoint
+198.54.134.138 # conferenceroom
