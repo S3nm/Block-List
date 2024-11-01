@@ -1,9 +1,9 @@
-Blocked IP Addresses Repository
-This repository is used to store and track IP addresses that have been dynamically blocked by a Fortinet firewall. The purpose is to maintain a centralized list of risky or unauthorized IP addresses that attempt to access the SSL VPN or other protected resources. By utilizing this repository, blocked IPs can be logged, reviewed, and managed more easily than through traditional firewall group limitations.
+Bacon ipsum dolor amet hamburger spare ribs flank, sausage beef ribs turducken burgdoggen shankle turkey capicola filet mignon strip steak pig venison. Ground round leberkas t-bone, short ribs porchetta prosciutto turducken filet mignon spare ribs sausage strip steak ribeye. Meatloaf jerky turducken swine shank shankle. Beef ribs chislic prosciutto, porchetta ribeye capicola short loin pastrami jerky sausage andouille pork boudin. Brisket beef capicola tri-tip pork loin, sausage meatloaf ham fatback chuck pastrami t-bone short loin. Landjaeger alcatra boudin, ground round shankle short loin fatback pork loin cupim short ribs rump.
 
-How It Works
-Dynamic Blocking on Fortinet Firewall:
+Pork chop filet mignon cupim beef ribs tenderloin biltong bresaola bacon shoulder prosciutto spare ribs drumstick. Beef ribs landjaeger drumstick pig, frankfurter spare ribs hamburger. Burgdoggen porchetta swine tongue shank, shoulder pork cupim. Pork belly leberkas swine, ball tip tongue cupim spare ribs prosciutto drumstick hamburger.
 
-When an unauthorized access attempt is detected, the Fortinet firewall identifies the IP address (%%log.remip%%) and blocks it by adding it to a local group.
-Instead of relying solely on the firewall’s address groups, which may have limitations, the script logs these blocked IPs directly to this GitHub repository.
-Direct Update Using GitHub API:
+Cupim boudin short loin alcatra drumstick doner. Jerky flank chislic short ribs. Ribeye shoulder doner, picanha beef ribs turkey ham hock sirloin andouille. Sirloin cow pork pig brisket, porchetta burgdoggen chuck short ribs shankle chicken turducken. Meatloaf beef ribs kielbasa ball tip, cow pork shank buffalo prosciutto chuck doner t-bone. Chuck meatloaf boudin prosciutto alcatra pork belly, cow short ribs salami pancetta corned beef turducken. Ground round salami ham boudin venison, shank fatback short ribs jerky porchetta pork loin sirloin.
+
+Pork chop boudin ground round flank alcatra spare ribs pork belly ribeye capicola beef. Pork chop corned beef doner jerky. Chicken kevin pastrami, ball tip pork loin beef kielbasa. Fatback brisket hamburger andouille tenderloin. Cow ham hock swine salami, chislic andouille tri-tip short loin tongue jerky spare ribs cupim turducken sausage pork. Sausage buffalo rump beef jowl ribeye hamburger prosciutto t-bone frankfurter pork belly flank drumstick andouille leberkas.
+
+Prosciutto ground round biltong, tenderloin strip steak tri-tip picanha jowl. Bresaola turkey salami bacon buffalo drumstick chuck pork chop pork shankle picanha hamburger. Swine turkey brisket biltong chuck ham hock rump spare ribs. Chuck alcatra buffalo andouille turkey. Biltong corned beef sausage, buffalo spare ribs pastrami salami. Beef ribs flank venison, pork belly rump short loin brisket spare ribs kielbasa shank.
