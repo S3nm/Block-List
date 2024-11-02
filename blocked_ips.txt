@@ -1666,3 +1666,4 @@
 198.44.128.204 # control
 206.217.206.41 # vcenter
 77.90.173.200 # itscan
+46.232.47.55 # managementscans
