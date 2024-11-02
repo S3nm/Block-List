@@ -1671,3 +1671,4 @@
 142.252.25.209 # Scanhrhr
 198.44.129.71 # ernest
 146.70.165.10 # pierre
+172.120.161.225 # managementscan
