@@ -2034,3 +2034,4 @@
 45.159.127.204 # ProductionManager
 185.156.46.168 # alexander
 146.70.172.62 # lisa
+43.225.189.148 # bernard
