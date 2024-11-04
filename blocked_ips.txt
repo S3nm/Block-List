@@ -1951,3 +1951,4 @@
 198.44.129.82 # support
 142.252.242.33 # Warehouse
 142.252.171.161 # ProductManagers
+80.73.242.178 # QualityControl
