@@ -2002,3 +2002,4 @@
 46.3.5.235 # SupplyChainManager
 146.70.166.152 # david
 172.121.241.13 # Specialist
+172.121.67.189 # lifecycle
