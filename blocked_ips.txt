@@ -2052,3 +2052,4 @@
 146.70.173.38 # student
 198.44.129.126 # web
 62.76.146.197 # PayrollSpecialist
+146.70.166.247 # scanner
