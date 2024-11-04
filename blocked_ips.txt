@@ -2027,3 +2027,4 @@
 198.44.136.204 # sales
 78.24.204.157 # TrainingManager
 146.70.168.76 # tech
+176.123.186.131 # TeamLeader
