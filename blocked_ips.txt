@@ -2093,3 +2093,4 @@
 142.111.128.135 # SupplyChainManager
 146.70.187.99 # scanning
 198.54.134.171 # gary
+198.44.129.41 # canon
