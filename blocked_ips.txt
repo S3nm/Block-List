@@ -2304,3 +2304,4 @@
 138.219.172.41 # postmaster
 146.70.165.185 # sharepoint
 138.219.172.247 # sqlagent
+45.152.201.232 # contact
