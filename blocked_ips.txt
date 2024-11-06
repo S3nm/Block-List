@@ -2330,3 +2330,5 @@
 186.179.48.135 # meeting
 196.18.230.158 # SCAN
 45.147.101.163 # management
+45.147.101.100 # Network
+196.17.250.83 # securitymonitor
