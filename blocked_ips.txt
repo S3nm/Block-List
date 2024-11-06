@@ -2303,3 +2303,4 @@
 45.147.102.76 # itadmin
 138.219.172.41 # postmaster
 146.70.165.185 # sharepoint
+138.219.172.247 # sqlagent
