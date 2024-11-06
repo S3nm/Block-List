@@ -2297,3 +2297,4 @@
 146.70.166.250 # rachel
 196.17.249.26 # Standard
 196.19.156.155 # generalmeeting
+186.179.51.7 # securitycamera
