@@ -2386,3 +2386,4 @@
 186.179.49.7 # securitycamera
 172.120.45.98 # sqlagent
 196.19.159.87 # booking
+172.120.48.36 # printscan
