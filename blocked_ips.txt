@@ -2384,3 +2384,4 @@
 193.160.218.171 # generalconf
 46.232.26.152 # management
 186.179.49.7 # securitycamera
+172.120.45.98 # sqlagent
