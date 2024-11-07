@@ -2393,3 +2393,4 @@
 45.147.100.187 # CONFERENCE
 173.44.63.123 # retail
 195.19.209.136 # postgres
+172.120.50.229 # generalscan
