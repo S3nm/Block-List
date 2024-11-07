@@ -2420,3 +2420,4 @@
 196.16.110.162 # Scanner2
 196.18.230.84 # generalscanner
 146.70.168.207 # kiosk
+62.76.146.98 # CONFERENCE
