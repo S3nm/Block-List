@@ -2343,3 +2343,4 @@
 103.152.17.84 # generalscanner
 142.111.176.57 # securityroom
 154.82.21.105 # scans
+206.217.206.101 # personal
