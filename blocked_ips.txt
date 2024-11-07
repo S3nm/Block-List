@@ -2382,3 +2382,4 @@
 104.164.164.115 # faxscan
 196.19.159.106 # itadmin
 193.160.218.171 # generalconf
+46.232.26.152 # management
