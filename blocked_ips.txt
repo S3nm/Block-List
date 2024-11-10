@@ -2748,3 +2748,4 @@
 104.129.41.233 # vanessa
 146.70.165.239 # scaner
 146.70.172.58 # maintenance
+208.131.130.85 # trainingroom
