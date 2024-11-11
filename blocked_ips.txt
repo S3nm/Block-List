@@ -2822,3 +2822,4 @@
 2.57.151.70 # hrscans
 37.140.255.192 # hpscanner
 154.82.21.45 # hrscans
+166.1.196.78 # hpscanner
