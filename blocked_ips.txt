@@ -2805,3 +2805,4 @@
 23.162.40.115 # brother
 195.208.3.19 # bigscanner
 176.123.187.233 # scannering
+46.232.43.42 # hpscanner
