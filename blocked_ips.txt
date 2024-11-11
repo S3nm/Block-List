@@ -2974,3 +2974,4 @@
 146.70.173.85 # trainingroom
 146.70.165.196 # karen
 146.70.187.15 # conferenceroom
+23.162.40.14 # bruce
