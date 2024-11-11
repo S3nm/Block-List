@@ -2859,3 +2859,4 @@
 185.98.42.179 # scanner
 46.232.41.69 # bigscanner
 172.120.161.137 # public
+46.3.74.28 # hpscanner
