@@ -2817,3 +2817,5 @@
 194.226.185.44 # hrscans
 5.57.210.227 # bigscanner
 45.128.124.135 # scannering
+88.218.80.110 # scannering
+193.160.216.34 # scanner
