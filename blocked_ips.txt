@@ -2809,3 +2809,4 @@
 45.192.37.99 # scannering
 185.202.107.199 # scannering
 166.88.156.74 # hrscans
+80.68.150.114 # scanner
