@@ -3703,3 +3703,4 @@
 142.252.104.105 # scannerbox
 213.139.195.114 # scanners
 185.202.107.138 # trainingroom
+93.183.101.46 # dialog
