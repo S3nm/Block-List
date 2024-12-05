@@ -3711,3 +3711,4 @@
 142.111.246.230 # information
 185.68.83.164 # scanmachine
 92.119.163.122 # printer
+80.73.242.195 # training
