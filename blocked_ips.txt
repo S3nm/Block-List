@@ -3912,3 +3912,4 @@
 166.88.156.185 # supportability
 166.1.250.218 # supportstest
 77.90.165.60 # usersupport
+172.120.60.182 # helptest
