@@ -4034,3 +4034,4 @@
 158.46.178.232 # supporttest
 142.111.254.95 # helping
 45.192.41.102 # customeruser
+192.177.45.132 # assistuser
