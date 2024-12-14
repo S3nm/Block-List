@@ -4207,3 +4207,4 @@
 109.94.216.133 # confviewer
 172.120.218.170 # workspace
 192.144.16.184 # videoediting
+142.252.126.60 # camera
