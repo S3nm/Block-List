@@ -4385,3 +4385,4 @@
 45.87.127.33 # video
 103.151.103.117 # conferencecall
 77.72.84.66 # dialpad
+192.177.18.73 # scanner
