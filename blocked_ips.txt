@@ -4237,3 +4237,4 @@
 194.190.179.50 # teamviewer
 77.83.5.202 # discord
 5.252.188.86 # teamviewer
+5.252.188.86 # video
