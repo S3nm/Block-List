@@ -4257,3 +4257,4 @@
 156.96.151.132 # operator
 46.3.73.119 # zohomeeting
 176.100.146.184 # video
+46.232.38.248 # microsoftteams
