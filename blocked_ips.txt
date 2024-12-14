@@ -4284,3 +4284,6 @@
 198.54.129.44 # scanner
 193.228.131.217 # teams
 198.54.129.44 # scanner
+84.17.63.43 # scanner
+84.17.63.43 # scanner
+172.120.50.11 # microsoftteams
