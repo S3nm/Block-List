@@ -4542,3 +4542,4 @@
 45.130.186.176 # confviewer
 142.252.107.14 # videoediting
 142.252.110.48 # scanners
+142.252.8.211 # microsoftteams
