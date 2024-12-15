@@ -4485,3 +4485,4 @@
 142.252.132.108 # googlemeet
 31.222.247.208 # microsoftteams
 83.138.48.137 # dialpad
+45.130.184.104 # teams
