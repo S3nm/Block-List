@@ -4706,3 +4706,4 @@
 185.98.41.32 # temporaryuser
 46.232.45.13 # publisher
 77.90.173.209 # default
+176.123.185.67 # myfax
