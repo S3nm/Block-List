@@ -4712,3 +4712,4 @@
 166.88.0.77 # session
 185.68.80.251 # anonymoususer
 166.88.156.69 # ftptest
+166.88.211.16 # usertemplate
