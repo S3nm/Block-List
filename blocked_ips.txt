@@ -4740,3 +4740,4 @@
 46.232.32.73 # defaultuser
 172.120.203.226 # anonymousftp
 185.81.71.52 # defaultuser
+166.1.241.33 # ftpanonymous
