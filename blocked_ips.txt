@@ -5280,3 +5280,4 @@
 88.151.115.209 # RWashington
 193.228.51.207 # RPalmer
 154.91.152.167 # maquinari
+45.203.148.246 # netstatus
