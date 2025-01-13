@@ -5429,3 +5429,4 @@
 94.154.35.167 # investigations
 94.154.35.166 # montrealonline
 94.154.35.167 # cadrio
+94.154.35.168 # majesticfund
