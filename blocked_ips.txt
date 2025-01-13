@@ -5415,3 +5415,4 @@
 134.53.243.98 # test
 156.228.102.65 # cking@noelcompany.com
 94.154.35.160 # selly
+94.154.35.160 # ledsmartpanel
