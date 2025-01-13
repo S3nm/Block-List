@@ -5417,3 +5417,4 @@
 94.154.35.160 # selly
 94.154.35.160 # ledsmartpanel
 94.154.35.161 # school-link
+94.154.35.161 # lucania-palazzo
