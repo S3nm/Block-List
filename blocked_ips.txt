@@ -5475,3 +5475,4 @@
 45.203.246.251 # Uzivatelreg
 45.205.146.10 # forecast
 45.205.145.214 # disclaimers
+45.203.143.112 # screenshots
