@@ -5488,3 +5488,4 @@
 45.203.155.16 # forecast
 156.242.76.41 # screenshots
 156.228.86.95 # socleireachain
+154.202.129.54 # patrimoine
