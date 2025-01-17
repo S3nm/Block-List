@@ -5468,3 +5468,4 @@
 156.228.89.101 # cdavid@goodwillnm.org
 45.203.146.105 # DivX
 45.203.152.22 # Hardy
+154.202.128.11 # patrimoine
