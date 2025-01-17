@@ -5489,3 +5489,4 @@
 156.242.76.41 # screenshots
 156.228.86.95 # socleireachain
 154.202.129.54 # patrimoine
+156.242.76.133 # Hardy
