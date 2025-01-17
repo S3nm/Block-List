@@ -5477,3 +5477,4 @@
 45.205.145.214 # disclaimers
 45.203.143.112 # screenshots
 156.242.83.149 # Hardy
+45.203.153.45 # artikkelit
