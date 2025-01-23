@@ -5734,3 +5734,6 @@
 104.207.58.246 # kamedzekor
 104.207.59.233 # cmbliss
 104.207.60.145 # krrourke
+104.207.60.65 # marescottia
+156.228.113.8 # ptgym
+104.207.52.175 # latkinson
