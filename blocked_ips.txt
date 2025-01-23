@@ -5707,3 +5707,8 @@
 156.228.83.183 # palynziqkabengtr
 156.228.99.51 # vandellia
 156.228.85.153 # pluyo
+156.228.89.83 # nridgway
+156.228.94.199 # azaragoza
+156.228.103.90 # hancom
+104.207.55.188 # corr
+156.228.99.4 # damaske
