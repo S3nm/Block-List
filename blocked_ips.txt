@@ -5685,3 +5685,5 @@
 156.228.104.90 # yeh
 156.228.109.112 # odaraimportservice
 156.228.105.96 # chbarber
+156.228.114.190 # jrmorelock
+156.228.117.17 # mdelpilarlondono
