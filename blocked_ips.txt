@@ -5770,3 +5770,5 @@
 156.228.116.13 # awarburton
 156.228.98.49 # codetwo
 156.228.78.225 # gonalsun
+104.207.59.8 # morrisod
+104.207.59.78 # hhamidi
