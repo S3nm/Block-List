@@ -10493,3 +10493,5 @@
 109.248.160.118 # ADMForti
 198.54.131.143 # service 2
 109.248.160.118 # ADMForti
+109.248.160.118 # ADMForti
+104.207.50.57 # noel.local\admin
