@@ -11766,3 +11766,4 @@
 23.234.80.53 # lab
 23.234.79.118 # finance
 104.207.51.21 # no.local\postmaster
+23.234.70.115 # emanuel
