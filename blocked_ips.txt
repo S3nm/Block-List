@@ -11664,3 +11664,4 @@
 146.70.187.100 # elvis
 %%log.remip%% # %%log.user%%
 146.70.165.61 # android
+23.234.71.108 # oracle
