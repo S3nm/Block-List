@@ -11713,3 +11713,4 @@
 23.162.40.73 # gonzalo
 104.207.48.63 # noel.local\admin
 23.234.77.179 # michelle
+146.70.168.236 # printer
