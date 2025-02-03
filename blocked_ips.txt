@@ -11745,3 +11745,5 @@
 146.70.173.44 # arnulfo
 23.234.69.53 # monitor
 104.207.60.78 # noe.vers\root
+23.234.81.179 # cesar
+104.207.57.86 # n.local\office
