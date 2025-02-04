@@ -14667,3 +14667,5 @@
 104.207.51.80 # oholliday
 156.228.99.178 # megonzalez
 156.228.79.219 # jameswright
+104.207.52.152 # rbazzle
+104.207.51.193 # aburnskeirnan
