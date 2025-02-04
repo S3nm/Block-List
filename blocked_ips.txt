@@ -12860,3 +12860,7 @@
 154.214.1.17 # kferguson
 156.228.81.80 # ethoroughman
 156.228.97.57 # bkemper
+156.228.83.47 # batyler
+104.207.43.82 # godzikk
+156.228.79.152 # acollura
+156.228.89.247 # ecotton
