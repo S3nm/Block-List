@@ -12608,3 +12608,5 @@
 104.207.39.123 # lwshrecruiter
 104.207.40.243 # keshaven
 104.207.49.95 # sslater
+156.228.84.60 # traymond
+104.207.34.239 # mfmcanally
