@@ -14176,3 +14176,7 @@
 156.228.94.104 # fgw
 104.207.49.207 # vwespe
 104.207.56.116 # tfranco
+104.207.34.32 # extaxiansfriedmann
+104.207.49.231 # trottierj
+104.207.55.112 # ynx
+156.228.84.128 # lmcdonoughdelacruz
