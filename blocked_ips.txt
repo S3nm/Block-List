@@ -13270,3 +13270,8 @@
 104.207.54.32 # resquivel
 156.228.111.217 # aabastilla
 104.207.53.6 # dhodnett
+104.207.52.136 # parsonsc
+104.207.48.213 # dthum
+156.228.119.227 # tartmire
+156.228.98.26 # sgoldmann
+104.207.37.244 # cnfuller
