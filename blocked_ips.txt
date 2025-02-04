@@ -13110,3 +13110,8 @@
 156.228.112.199 # valdeck
 156.228.91.248 # choudhum
 156.228.84.93 # vanrooyenm
+104.207.45.86 # sdcops
+156.228.112.255 # bjedrusz
+156.228.118.20 # mbontempi
+104.207.50.251 # mpieri
+104.207.47.63 # tschiffer
