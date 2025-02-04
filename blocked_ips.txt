@@ -13336,3 +13336,5 @@
 156.228.119.216 # dwsams
 156.228.83.76 # satmarkspe
 104.207.44.75 # jmassad
+104.207.53.128 # joshuamorales
+156.228.85.105 # kherbert
