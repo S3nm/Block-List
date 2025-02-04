@@ -13451,3 +13451,5 @@
 156.228.91.95 # lvele
 156.228.106.158 # ltovar
 156.228.97.13 # arillera
+104.207.34.161 # trainingvenue
+156.228.109.238 # zcrissinger
