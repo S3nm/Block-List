@@ -12175,3 +12175,5 @@
 156.228.79.103 # pravalik
 156.228.116.14 # hseelam
 156.228.100.138 # chbeck
+156.228.97.29 # mapelletier
+104.207.60.156 # hcarbonelllara
