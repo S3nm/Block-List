@@ -14733,3 +14733,6 @@
 156.228.100.111 # aboytesd
 109.248.160.118 # FortiAudit
 156.228.78.23 # transforms
+45.83.131.89 # Modibo
+156.228.83.155 # jrouellett
+104.207.38.20 # eavila
