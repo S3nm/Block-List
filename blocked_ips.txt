@@ -14218,3 +14218,5 @@
 156.228.119.196 # pscmedicusshare
 156.228.102.96 # nationalptosupport
 156.228.99.170 # mgw
+45.83.20.172 # Minnie
+104.207.58.177 # jmayr
