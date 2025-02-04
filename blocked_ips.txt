@@ -13155,3 +13155,5 @@
 156.228.114.0 # produkcja
 156.228.104.69 # conricoh
 156.228.111.234 # ajulian
+156.228.114.40 # scoccherab
+156.228.83.18 # micromenders
