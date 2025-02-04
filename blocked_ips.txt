@@ -12959,3 +12959,5 @@
 104.207.47.52 # kriera
 156.228.109.222 # votecservices
 104.207.55.34 # tronnolonem
+104.207.60.2 # wleary
+104.207.41.0 # wickertk
