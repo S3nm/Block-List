@@ -12281,3 +12281,5 @@
 156.228.115.42 # clgrissom
 104.207.36.230 # vaiver
 156.228.88.194 # cpedley
+104.207.40.218 # abelin
+104.207.40.234 # blenrepremsengtv
