@@ -12765,3 +12765,5 @@
 156.228.98.14 # robinsoka
 104.207.55.54 # fafranklin
 104.207.41.78 # olara
+104.207.48.61 # kbretschneider
+156.228.97.9 # csingh
