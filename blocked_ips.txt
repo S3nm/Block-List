@@ -12634,3 +12634,5 @@
 104.207.60.117 # hbaumgartl
 104.207.60.163 # dchristensen
 104.207.36.251 # bklitsie
+104.207.60.154 # jminey
+104.207.59.16 # iallen
