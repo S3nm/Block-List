@@ -14181,3 +14181,5 @@
 104.207.55.112 # ynx
 156.228.84.128 # lmcdonoughdelacruz
 194.54.157.69 # Milton
+104.207.50.110 # nchekan
+156.228.116.5 # lchojnow
