@@ -13937,3 +13937,5 @@
 156.228.117.30 # williamsmat
 156.228.104.110 # psuriel
 156.228.79.50 # revargas
+156.228.97.162 # jlandis
+109.248.160.118 # FortiAudit
