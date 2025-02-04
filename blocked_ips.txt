@@ -12301,3 +12301,5 @@
 104.207.33.148 # pisarekj
 104.207.33.7 # lgodenzini
 104.207.50.208 # krishsas
+156.228.93.75 # publishftp
+104.207.45.33 # ftrove
