@@ -14671,3 +14671,7 @@
 104.207.51.193 # aburnskeirnan
 156.228.98.236 # cemeruwa
 156.228.88.228 # ejturner
+104.207.33.207 # eferreiras
+104.207.34.91 # guoz
+156.228.78.184 # golivieri
+109.248.160.118 # FortiAudit
