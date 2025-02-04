@@ -14106,3 +14106,5 @@
 156.228.77.229 # ediuser
 104.207.51.23 # philipslumify
 104.207.61.10 # akaczyns
+104.207.58.221 # mperlow
+104.207.45.6 # zdawlah
