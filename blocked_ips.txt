@@ -13520,3 +13520,4 @@
 104.207.34.154 # ddcraig
 156.228.98.13 # katrinvandersteen
 156.228.99.247 # bshinn
+104.207.60.188 # dewittuser
