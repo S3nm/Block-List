@@ -13056,3 +13056,6 @@
 156.228.104.240 # jcollar
 104.207.60.86 # mtrusty
 104.207.43.44 # chandrann
+156.228.92.176 # goodfellowg
+156.228.91.45 # hdelisle
+156.228.93.14 # ahause
