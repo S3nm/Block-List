@@ -14423,3 +14423,5 @@
 104.207.44.98 # ceskidmore
 156.228.115.34 # svchgdinfowfbatch
 104.207.57.26 # smlipps
+156.228.84.219 # tdenson
+195.42.234.233 # Mindy
