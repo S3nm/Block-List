@@ -14188,3 +14188,5 @@
 104.207.43.97 # testutm
 104.207.36.27 # tchasara
 156.228.89.208 # dfroehner
+109.248.160.118 # FortiAudit
+104.207.61.52 # diaahawk
