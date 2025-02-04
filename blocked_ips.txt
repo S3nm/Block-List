@@ -12703,3 +12703,6 @@
 104.207.38.138 # susangarza
 156.228.88.46 # dobrovics
 104.207.41.238 # ucstephe
+156.228.90.2 # tplaster
+156.228.82.35 # tatum
+156.228.112.142 # wacarrol
