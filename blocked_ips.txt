@@ -12736,3 +12736,7 @@
 104.207.43.112 # scottcunningham
 156.228.85.78 # ptwarehouse
 104.207.53.121 # mgaxiola
+104.207.41.191 # rodavis
+156.228.124.195 # mlami
+104.207.53.151 # lstettner
+156.228.108.214 # sdearoz
