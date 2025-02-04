@@ -12688,3 +12688,6 @@
 156.228.111.212 # jljackson
 104.207.34.37 # atesmer
 104.207.36.51 # ewafa
+156.228.81.73 # manchester
+156.228.117.176 # kkidkarndee
+104.207.62.192 # aperedo
