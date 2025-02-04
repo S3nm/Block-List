@@ -13793,3 +13793,5 @@
 156.228.86.100 # atsvetkov
 156.228.110.69 # qkizilba
 156.228.82.225 # gbaston
+104.207.61.136 # mtagliarino
+104.207.36.179 # otuameji
