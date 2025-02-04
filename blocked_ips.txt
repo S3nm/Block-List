@@ -14680,3 +14680,5 @@
 156.228.103.119 # asottilare
 156.228.116.33 # mistronig
 104.207.62.246 # twherry
+104.207.63.238 # paulahayden
+146.19.80.78 # Moana
