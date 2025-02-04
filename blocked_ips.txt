@@ -12534,3 +12534,8 @@
 156.228.93.133 # lionstoneapihg
 156.228.81.119 # tzarucki
 104.207.51.165 # charwhite
+104.207.42.209 # mrsigno
+156.228.76.176 # bdellolio
+156.228.109.213 # vrbrooks
+156.228.86.118 # elake
+104.207.43.102 # xparveshmh
