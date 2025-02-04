@@ -12486,3 +12486,5 @@
 156.228.82.71 # aantoniacci
 104.207.40.247 # badautremo
 104.207.37.75 # dartaylor
+104.207.36.170 # thilton
+156.228.84.250 # karma
