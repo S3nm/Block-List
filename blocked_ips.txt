@@ -12263,3 +12263,5 @@
 104.207.61.173 # dfresqueztest
 104.207.57.70 # tlampart
 156.228.84.167 # avataraliasrequest
+156.228.105.159 # corbetm
+156.228.95.97 # petersl
