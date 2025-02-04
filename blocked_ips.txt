@@ -14155,3 +14155,6 @@
 156.228.103.185 # rlmallory
 104.207.42.75 # raghavendarc
 185.248.144.87 # Minik
+156.228.89.157 # garcia
+104.207.58.85 # adhiggins
+156.228.84.161 # kristopherp
