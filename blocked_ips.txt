@@ -14161,3 +14161,6 @@
 104.207.52.39 # pduvnjak
 156.228.93.7 # vansecurityuser
 104.207.42.150 # vkpham
+104.207.39.183 # mjfrancis
+104.207.59.51 # mbreed
+104.207.60.47 # channabd
