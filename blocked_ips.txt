@@ -12484,3 +12484,5 @@
 104.207.49.214 # hangtag
 104.207.35.42 # mmaese
 156.228.82.71 # aantoniacci
+104.207.40.247 # badautremo
+104.207.37.75 # dartaylor
