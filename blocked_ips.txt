@@ -12901,3 +12901,5 @@
 156.228.83.101 # extaxiansmichel
 156.228.76.48 # tchennault
 156.228.104.240 # mthrasher
+104.207.42.57 # aperfecto
+156.228.88.36 # bowman
