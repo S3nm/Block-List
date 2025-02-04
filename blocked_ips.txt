@@ -12511,3 +12511,5 @@
 156.228.104.117 # aoday
 156.228.98.19 # yyotova
 156.228.84.163 # jmockenhaupt
+104.207.62.160 # vincemercado
+156.228.94.85 # myriambosmans
