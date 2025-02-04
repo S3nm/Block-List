@@ -12734,3 +12734,5 @@
 156.228.106.88 # panchinges
 104.207.45.230 # jkotoriy
 104.207.43.112 # scottcunningham
+156.228.85.78 # ptwarehouse
+104.207.53.121 # mgaxiola
