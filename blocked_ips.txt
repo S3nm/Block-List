@@ -11956,3 +11956,5 @@
 156.228.116.197 # fdechane
 156.228.112.162 # kwarrick
 156.228.84.66 # wfinn
+156.228.113.168 # servicemanager
+104.207.42.186 # amoineau
