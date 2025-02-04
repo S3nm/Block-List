@@ -13059,3 +13059,5 @@
 156.228.92.176 # goodfellowg
 156.228.91.45 # hdelisle
 156.228.93.14 # ahause
+104.207.37.5 # mpeterson
+104.207.59.151 # tboroff
