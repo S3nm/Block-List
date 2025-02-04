@@ -13249,3 +13249,5 @@
 104.207.43.2 # tfitzsimons
 104.207.35.28 # obstracker
 104.207.42.180 # nlebran
+104.207.52.101 # bpolepole
+104.207.59.154 # gricatti
