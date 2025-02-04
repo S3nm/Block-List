@@ -11978,3 +11978,8 @@
 104.207.39.15 # dbakken
 104.207.44.5 # azuresearch
 156.228.105.213 # ntotten
+156.228.83.195 # shanberry
+156.228.103.237 # jboles
+104.207.55.143 # rabies
+156.228.113.21 # dkatcher
+156.228.98.199 # hrichards
