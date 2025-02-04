@@ -14159,3 +14159,5 @@
 104.207.58.85 # adhiggins
 156.228.84.161 # kristopherp
 104.207.52.39 # pduvnjak
+156.228.93.7 # vansecurityuser
+104.207.42.150 # vkpham
