@@ -13413,3 +13413,4 @@
 104.207.37.163 # amunro
 156.228.119.220 # mdally
 104.207.46.124 # jdefrancis
+156.228.96.26 # steamtechsquad
