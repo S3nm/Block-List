@@ -15605,3 +15605,5 @@
 95.164.2.167 # Pablo
 109.248.160.118 # Fortisupport
 194.54.157.2 # Panagiotis
+95.164.46.33 # Paneeraq
+77.91.100.56 # Pammy
