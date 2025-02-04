@@ -14419,3 +14419,5 @@
 194.54.157.76 # Miranda
 104.207.49.190 # conepre
 104.207.53.175 # gstamenov
+104.207.62.64 # lsparkma
+104.207.44.98 # ceskidmore
