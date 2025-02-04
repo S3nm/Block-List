@@ -12036,3 +12036,5 @@
 156.228.79.11 # amwhite
 156.228.97.3 # robinsonca
 156.228.86.126 # fullstack
+104.207.38.25 # amshuster
+156.228.93.97 # rtsnell
