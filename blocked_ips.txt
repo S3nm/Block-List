@@ -14815,3 +14815,9 @@
 104.207.34.88 # ajayakumar
 104.207.37.198 # calmiller
 156.228.89.218 # printbadgescan
+156.228.81.70 # tnarlock
+156.228.82.16 # pouneh
+156.228.84.129 # maccoradmin
+104.207.38.12 # castoc
+104.207.51.147 # nmarquez
+156.228.110.103 # benoweyere
