@@ -11908,3 +11908,5 @@
 156.228.91.168 # vrichardson
 156.228.86.105 # worldg
 156.228.93.5 # bharley
+104.207.54.38 # makedonskai
+104.207.45.17 # sbhatia
