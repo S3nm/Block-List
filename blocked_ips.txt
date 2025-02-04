@@ -12869,3 +12869,5 @@
 104.207.56.113 # mossadams
 104.207.37.186 # mendezm
 104.207.42.210 # gshimkaveg
+185.213.193.245 # stanford
+104.207.49.191 # frederickr
