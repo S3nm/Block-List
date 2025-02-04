@@ -13905,3 +13905,5 @@
 45.83.20.253 # Milena
 156.228.114.75 # carolinevanhove
 104.207.51.103 # cameronm
+156.228.115.223 # xshreyap
+104.207.53.202 # richardsoj
