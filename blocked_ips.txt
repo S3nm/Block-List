@@ -13753,3 +13753,5 @@
 156.228.117.30 # prismhelpdesk
 156.228.97.13 # tanolan
 156.228.100.15 # cgsiefker
+156.228.105.36 # jdsoveranez
+104.207.35.17 # cmwape
