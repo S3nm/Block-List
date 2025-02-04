@@ -12360,3 +12360,6 @@
 104.207.45.218 # aacampbell
 156.228.96.153 # ysuriel
 104.207.59.189 # jaburke
+104.207.57.49 # hburroug
+104.207.44.188 # bvasquezjimenez
+156.228.111.56 # uanorthm
