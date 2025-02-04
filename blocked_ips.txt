@@ -14643,3 +14643,5 @@
 95.164.51.60 # Mira
 104.207.56.133 # ebromke
 156.228.92.174 # bonfigliolg
+156.228.118.231 # jhastreiter
+104.207.32.14 # mpschmiede
