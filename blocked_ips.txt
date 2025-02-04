@@ -14540,3 +14540,5 @@
 104.207.34.143 # faquino
 156.228.93.70 # casanovaf
 146.19.80.78 # Mindy
+104.207.46.70 # azmaintenance
+156.228.83.61 # mgalassi
