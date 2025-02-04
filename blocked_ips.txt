@@ -14083,3 +14083,5 @@
 109.248.160.118 # FortiAudit
 104.207.51.55 # rsalah
 104.207.59.93 # jcotman
+104.207.46.212 # kellyrobertson
+156.228.105.167 # carpot
