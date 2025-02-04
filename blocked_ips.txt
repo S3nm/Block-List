@@ -14421,3 +14421,5 @@
 104.207.53.175 # gstamenov
 104.207.62.64 # lsparkma
 104.207.44.98 # ceskidmore
+156.228.115.34 # svchgdinfowfbatch
+104.207.57.26 # smlipps
