@@ -12015,3 +12015,7 @@
 156.228.119.48 # higginss
 156.228.83.21 # ldevine
 104.207.33.82 # zwahlenr
+156.228.80.145 # hutchinsd
+156.228.106.137 # tpatrie
+156.228.89.24 # petersj
+156.228.90.69 # lgjimenez
