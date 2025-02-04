@@ -12542,3 +12542,5 @@
 104.207.56.144 # dderenzis
 156.228.125.88 # cardiacsciencesrv
 156.228.112.214 # uszrira
+156.228.124.11 # sromeo
+104.207.46.112 # keoghn
