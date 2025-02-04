@@ -12956,3 +12956,5 @@
 156.228.110.215 # bcbrode
 156.228.80.136 # emilkovska
 156.228.101.170 # mahdiyeh
+104.207.47.52 # kriera
+156.228.109.222 # votecservices
