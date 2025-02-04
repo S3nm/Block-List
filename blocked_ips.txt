@@ -12308,3 +12308,4 @@
 156.228.97.30 # korinievskyio
 156.228.100.11 # shindet
 104.207.34.60 # cbynes
+104.207.49.153 # guizzardie
