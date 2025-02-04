@@ -12190,3 +12190,8 @@
 104.207.34.74 # arj
 156.228.108.106 # amandad
 156.228.111.74 # mhfms
+104.207.52.22 # quintierod
+104.207.44.228 # familywellness
+156.228.93.74 # mgossett
+104.207.63.221 # malessi
+156.228.83.190 # ddyonmez
