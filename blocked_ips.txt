@@ -14452,3 +14452,5 @@
 156.228.87.155 # trajnarine
 156.228.119.34 # ldelouth
 109.248.160.118 # FortiAudit
+154.214.1.61 # sushsalo
+156.228.88.236 # lguerard
