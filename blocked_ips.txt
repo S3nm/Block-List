@@ -12283,3 +12283,5 @@
 156.228.88.194 # cpedley
 104.207.40.218 # abelin
 104.207.40.234 # blenrepremsengtv
+156.228.83.92 # aguileraa
+104.207.61.204 # akolander
