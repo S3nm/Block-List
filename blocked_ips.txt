@@ -14445,3 +14445,5 @@
 156.228.86.84 # rssappenfield
 104.207.56.228 # germanim
 156.228.82.33 # nherrera
+156.228.84.37 # acookston
+104.207.53.12 # nmandava
