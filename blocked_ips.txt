@@ -13217,3 +13217,6 @@
 104.207.41.166 # trafficenforcementco
 156.228.103.176 # wfj
 104.207.49.141 # rpanov
+104.207.45.19 # colasa
+156.228.82.133 # asaunders
+104.207.49.155 # tsilversm
