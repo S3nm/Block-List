@@ -12540,3 +12540,5 @@
 156.228.86.118 # elake
 104.207.43.102 # xparveshmh
 104.207.56.144 # dderenzis
+156.228.125.88 # cardiacsciencesrv
+156.228.112.214 # uszrira
