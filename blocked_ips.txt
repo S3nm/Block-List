@@ -12055,3 +12055,6 @@
 156.228.116.127 # contarie
 104.207.51.216 # terrosia
 156.228.114.53 # cavelierf
+156.228.101.110 # clfrazier
+156.228.88.123 # gflisi
+104.207.45.73 # revangelista
