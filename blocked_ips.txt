@@ -13198,3 +13198,5 @@
 104.207.63.117 # mgasanova
 156.228.91.230 # rojasa
 104.207.33.254 # sluna
+156.228.112.50 # hrportal
+104.207.41.44 # fairineidragota
