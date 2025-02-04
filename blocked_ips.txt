@@ -13958,3 +13958,8 @@
 104.207.60.48 # xmuralimoha
 156.228.113.195 # laperry
 156.228.115.35 # vtyler
+156.228.80.121 # calzonim
+156.228.85.188 # sigercon
+95.164.44.197 # Milton
+104.207.59.94 # osvhernandez
+104.207.37.60 # eacharvet
