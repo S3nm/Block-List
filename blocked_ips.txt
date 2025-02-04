@@ -15410,3 +15410,5 @@
 109.248.160.118 # Fortisupport
 45.128.52.169 # Norman
 77.91.100.56 # Nurislam
+194.54.157.2 # Nuray
+109.248.160.118 # Fortisupport
