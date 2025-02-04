@@ -12841,3 +12841,7 @@
 104.207.61.90 # sharmabr
 156.228.87.249 # tniehoff
 104.207.60.33 # ataddonio
+156.228.125.4 # grandid
+156.228.108.80 # avenuesfoundation
+104.207.38.61 # sbhscovidtest
+104.207.45.125 # contactformulier
