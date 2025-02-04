@@ -13253,3 +13253,5 @@
 104.207.59.154 # gricatti
 104.207.49.104 # tspringer
 104.207.34.70 # rferrell
+104.207.39.98 # sushauley
+104.207.35.66 # petrincolam
