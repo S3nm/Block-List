@@ -13606,3 +13606,6 @@
 156.228.80.151 # frontend
 104.207.47.240 # slparsons
 104.207.45.236 # rnilsson
+104.207.62.152 # blakneyk
+109.248.160.118 # FortiAudit
+91.132.132.119 # Mikayel
