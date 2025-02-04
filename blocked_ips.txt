@@ -13521,3 +13521,6 @@
 156.228.98.13 # katrinvandersteen
 156.228.99.247 # bshinn
 104.207.60.188 # dewittuser
+154.214.1.68 # carlom
+104.207.58.190 # pmangine
+104.207.47.64 # jsloop
