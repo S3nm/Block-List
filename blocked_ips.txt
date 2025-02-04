@@ -12579,3 +12579,7 @@
 156.228.111.79 # xsagiraviku
 156.228.108.197 # whitakerj
 104.207.46.60 # mbeckmon
+156.228.111.19 # glowther
+104.207.34.235 # morellana
+156.228.89.6 # sunkariv
+104.207.63.16 # jhasson
