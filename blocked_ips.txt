@@ -12310,3 +12310,6 @@
 104.207.34.60 # cbynes
 104.207.49.153 # guizzardie
 104.207.52.96 # ncampbel
+156.228.94.90 # exchdecelva
+156.228.93.209 # lchamberlain
+104.207.35.56 # drferris
