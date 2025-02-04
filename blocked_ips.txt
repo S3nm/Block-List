@@ -12631,3 +12631,6 @@
 156.228.79.83 # xdewanshsha
 156.228.93.158 # tangeldj
 156.228.113.179 # mmsherwood
+104.207.60.117 # hbaumgartl
+104.207.60.163 # dchristensen
+104.207.36.251 # bklitsie
