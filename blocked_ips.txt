@@ -13658,3 +13658,6 @@
 156.228.113.217 # impostlewait
 104.207.61.144 # klyubenov
 156.228.90.49 # mservais
+156.228.86.101 # jdellacella
+104.207.58.89 # dtraggianese
+104.207.40.70 # dcrum
