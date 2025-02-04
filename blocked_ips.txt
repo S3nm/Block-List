@@ -13636,3 +13636,8 @@
 156.228.94.88 # bantrim
 156.228.118.251 # svcvmupdatemanager
 194.54.157.76 # Milagrosa
+156.228.107.233 # sobrerom
+156.228.84.52 # mworsham
+156.228.119.5 # tdronet
+156.228.82.68 # taflores
+104.207.48.185 # awichita
