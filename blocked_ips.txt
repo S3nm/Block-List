@@ -12606,3 +12606,5 @@
 104.207.48.125 # msmullaghy
 156.228.91.27 # hurdt
 104.207.39.123 # lwshrecruiter
+104.207.40.243 # keshaven
+104.207.49.95 # sslater
