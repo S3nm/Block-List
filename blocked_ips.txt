@@ -11974,3 +11974,6 @@
 156.228.116.43 # denedwards
 156.228.115.237 # madobrick
 104.207.33.80 # sylassembly
+156.228.112.115 # surplusfunds
+104.207.39.15 # dbakken
+104.207.44.5 # azuresearch
