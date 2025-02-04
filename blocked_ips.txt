@@ -13239,3 +13239,5 @@
 104.207.45.122 # rivestechteam
 156.228.110.163 # szukalaj
 104.207.58.158 # ttierney
+104.207.59.63 # knull
+156.228.84.85 # jpcolanese
