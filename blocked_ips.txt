@@ -12822,3 +12822,7 @@
 104.207.34.201 # bapstw
 104.207.57.25 # mvelazqu
 156.228.105.26 # adevroy
+104.207.47.41 # datanasova
+104.207.63.6 # schweitzerc
+156.228.91.234 # wiles
+156.228.93.20 # sspringer
