@@ -14675,3 +14675,7 @@
 104.207.34.91 # guoz
 156.228.78.184 # golivieri
 109.248.160.118 # FortiAudit
+156.228.119.225 # admitgen
+156.228.79.162 # fsensoli
+156.228.103.119 # asottilare
+156.228.116.33 # mistronig
