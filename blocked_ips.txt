@@ -14776,3 +14776,6 @@
 104.207.34.59 # mdknapp
 156.228.79.190 # highgateautomation
 156.228.102.35 # jwigham
+156.228.104.247 # tamcfall
+104.207.62.169 # rfarrakh
+156.228.77.237 # mkisilyarska
