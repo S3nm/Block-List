@@ -12552,3 +12552,5 @@
 104.207.41.90 # jabdulkari
 156.228.124.128 # tkarlinsey
 156.228.99.215 # pcreversehistorical
+104.207.37.99 # wkendera
+104.207.44.131 # amedellin
