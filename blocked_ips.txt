@@ -12336,3 +12336,5 @@
 156.228.99.136 # grojo
 104.207.39.90 # tecampbell
 104.207.58.163 # sarcolie
+156.228.84.69 # jhcunningh
+104.207.58.180 # fdwilliams
