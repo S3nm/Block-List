@@ -12400,3 +12400,5 @@
 156.228.84.221 # mkhanterl
 104.207.32.229 # salesfax
 104.207.37.19 # tstudholme
+104.207.62.226 # spruser
+104.207.60.52 # rwielenga
