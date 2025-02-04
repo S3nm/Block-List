@@ -13815,3 +13815,10 @@
 156.228.81.115 # vfo
 156.228.111.232 # tauniab
 156.228.82.64 # rmanohar
+104.207.61.2 # extygonzalez
+104.207.39.130 # chimerixnppengtr
+156.228.82.132 # cbonner
+156.228.112.7 # dbdevito
+109.248.160.118 # FortiAudit
+104.207.51.195 # ajohansso
+104.207.41.246 # adouko
