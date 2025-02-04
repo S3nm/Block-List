@@ -13343,3 +13343,5 @@
 156.228.113.134 # satestjr
 156.228.95.39 # rnarvaez
 104.207.35.169 # wmvolsqluser
+104.207.55.165 # teamrachel
+156.228.107.120 # rrhernandez
