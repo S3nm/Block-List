@@ -14572,3 +14572,5 @@
 156.228.99.61 # bcarmona
 104.207.36.77 # bshasselbring
 156.228.117.64 # league
+104.207.54.112 # berken
+104.207.63.219 # dwerkhoven
