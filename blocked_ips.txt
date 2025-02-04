@@ -13328,3 +13328,5 @@
 104.207.59.0 # bannereis
 156.228.112.75 # dashton
 104.207.43.157 # mrosenblat
+104.207.44.209 # dlubben
+156.228.80.41 # castillol
