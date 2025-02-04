@@ -12475,3 +12475,9 @@
 156.228.96.136 # accountspayablesfc
 104.207.36.84 # friera
 154.214.1.209 # staghva
+156.228.88.250 # piprotectionchina
+104.207.58.70 # hssfb
+156.228.97.25 # hgagnier
+156.228.92.133 # jtyree
+156.228.88.153 # schatman
+104.207.45.239 # khylton
