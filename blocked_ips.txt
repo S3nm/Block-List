@@ -12230,3 +12230,8 @@
 156.228.88.111 # larce
 156.228.94.74 # treea
 104.207.35.168 # uakeshwa
+156.228.97.38 # asherer
+156.228.87.53 # swapdix
+104.207.57.230 # svecchiarelli
+156.228.119.202 # thehenrys
+156.228.79.6 # jtheaderman
