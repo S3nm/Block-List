@@ -12826,3 +12826,5 @@
 104.207.63.6 # schweitzerc
 156.228.91.234 # wiles
 156.228.93.20 # sspringer
+156.228.81.57 # kristins
+156.228.94.97 # melohmann
