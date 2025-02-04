@@ -12375,3 +12375,5 @@
 104.207.32.53 # bingersoll
 156.228.125.64 # vlkapp
 156.228.124.176 # afroztechnologies
+156.228.115.138 # rborucki
+156.228.125.36 # kottirth
