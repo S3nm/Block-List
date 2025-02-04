@@ -12811,3 +12811,5 @@
 104.207.48.51 # lpeduto
 156.228.82.156 # hblackaby
 104.207.60.231 # smcconchie
+104.207.39.84 # tclark
+104.207.44.23 # kmacemore
