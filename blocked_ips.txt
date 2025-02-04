@@ -11798,3 +11798,4 @@
 185.213.193.118 # news
 96.44.191.137 # scanner
 156.228.77.117 # mperea@noelcompany.com
+23.162.8.92 # store
