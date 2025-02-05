@@ -19080,3 +19080,4 @@
 156.228.89.0/24 # saelias
 156.228.89.0/24 # lucymillikan
 156.228.90.0/24 # martinezje
+156.228.83.0/24 # kdefrank
