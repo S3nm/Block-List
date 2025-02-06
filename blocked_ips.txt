@@ -19184,3 +19184,4 @@
 45.227.255.0/24 # forti
 141.98.81.0/24 # fortivpn
 45.227.255.0/24 # fortigatevpn
+179.60.147.0/24 # fortigatevpn
