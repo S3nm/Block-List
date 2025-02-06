@@ -19189,3 +19189,4 @@
 141.98.80.0/24 # fortigateadmin
 141.98.80.0/24 # administrator
 45.227.255.0/24 # administrator
+141.98.80.0/24 # vpnadmin
