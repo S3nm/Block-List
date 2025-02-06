@@ -19186,3 +19186,4 @@
 45.227.255.0/24 # fortigatevpn
 179.60.147.0/24 # fortigatevpn
 147.78.47.0/24 # fortigateadmin
+141.98.80.0/24 # fortigateadmin
