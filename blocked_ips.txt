@@ -19345,3 +19345,4 @@
 62.76.146.0/24 # printer
 208.252.176.0/24 # SlodkaefX10
 2.57.151.0/24 # boardroom1
+104.252.183.0/24 # webconference
