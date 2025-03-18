@@ -19598,3 +19598,5 @@
 78.128.113.0/24 # rfarnstrom
 5.188.206.0/24 # Aurslreports
 5.188.206.0/24 # sjeansimon
+91.191.209.0/24 # ctrytko
+91.191.209.0/24 # MSpasic
