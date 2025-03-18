@@ -19562,3 +19562,8 @@
 78.128.112.0/24 # etrudeau
 91.191.209.0/24 # dlaplante
 91.191.209.0/24 # ctrytko
+5.188.206.0/24 # sjeansimon
+5.188.206.0/24 # Aurslreports
+78.128.113.0/24 # mmartone
+78.128.113.0/24 # MGALLUP
+78.128.112.0/24 # etrudeau
