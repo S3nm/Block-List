@@ -19766,3 +19766,4 @@
 73.242.156.0/24 # ArchibequeC
 73.242.156.0/24 # CLINICTRACKER\EDTC_ArchibequeC
 149.28.50.0/24 # fortinet
+149.28.50.0/24 # fortinet
