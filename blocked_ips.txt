@@ -20026,3 +20026,4 @@
 31.134.9.0/24 # tempadmin
 103.251.26.0/24 # store
 193.233.216.0/24 # jthomas
+103.251.27.0/24 # reportingservices
