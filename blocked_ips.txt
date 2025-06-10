@@ -20077,3 +20077,4 @@
 46.232.11.0/24 # accessbuilder
 196.17.66.0/24 # accessdata
 154.30.209.0/24 # accipiter
+190.111.161.0/24 # accipiter
