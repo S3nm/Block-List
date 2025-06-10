@@ -20075,3 +20075,4 @@
 46.232.9.0/24 # access-remote
 154.30.219.0/24 # access_user
 46.232.11.0/24 # accessbuilder
+196.17.66.0/24 # accessdata
