@@ -20078,3 +20078,4 @@
 196.17.66.0/24 # accessdata
 154.30.209.0/24 # accipiter
 190.111.161.0/24 # accipiter
+192.241.68.0/24 # accipiter
