@@ -20091,3 +20091,5 @@
 95.164.145.0/24 # fortinet
 95.164.150.0/24 # FortiVpn-default
 95.164.150.0/24 # FortiVpn-default
+95.164.151.0/24 # FortiGate
+95.164.151.0/24 # FortiGate
