@@ -20089,3 +20089,5 @@
 193.142.38.0/24 # jscott
 95.164.145.0/24 # fortinet
 95.164.145.0/24 # fortinet
+95.164.150.0/24 # FortiVpn-default
+95.164.150.0/24 # FortiVpn-default
