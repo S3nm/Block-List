@@ -20094,3 +20094,4 @@
 95.164.151.0/24 # FortiGate
 95.164.151.0/24 # FortiGate
 185.174.102.0/24 # FortiClient
+194.9.178.0/24 # testforti
