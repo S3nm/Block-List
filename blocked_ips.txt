@@ -20148,3 +20148,6 @@
 92.187.56.0/24 # Administrateur
 188.82.53.0/24 # Fortinet
 89.64.81.0/24 # vpnadmin
+79.117.169.0/24 # Administrador
+104.28.200.0/24 # admin
+47.63.133.0/24 # Administrator
