@@ -20276,15 +20276,11 @@
 212.193.143.0/24 # csmith
 176.106.142.0/24 # sarah
 62.76.153.0/24 # david.williams
-96.64.158.0/24 # oarambula
-96.64.158.0/24 # oarambula
 185.196.8.0/24 # administrator
 185.196.8.0/24 # administrator
 185.196.8.0/24 # billing1
-96.64.158.0/24 # oarambula
 185.196.8.0/24 # billing1
 185.196.8.0/24 # confarence
-96.64.158.0/24 # oarambula
 185.196.8.0/24 # media
 185.196.8.0/24 # media
 185.208.156.0/24 # accounting
