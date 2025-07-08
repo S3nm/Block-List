@@ -20293,3 +20293,4 @@
 194.9.176.0/24 # ldap_firewall
 45.82.85.0/24 # Administrador
 194.9.177.0/24 # administrador
+45.82.85.0/24 # ldap_firewall
