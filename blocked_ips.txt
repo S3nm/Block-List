@@ -20297,3 +20297,4 @@
 45.82.85.0/24 # administrador
 45.82.86.0/24 # Administrador
 194.9.176.0/24 # ldap_firewall
+98.60.253.0/24 # apinto@noelcompany.com
