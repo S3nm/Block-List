@@ -20287,3 +20287,4 @@
 45.82.85.0/24 # Administrador
 194.9.179.0/24 # testvpn
 45.82.86.0/24 # ldap_firewall
+45.82.85.0/24 # ldap_firewall
