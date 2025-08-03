@@ -20341,3 +20341,4 @@
 156.242.33.0/24 # ethan.clawson@bosquestudents.org
 154.213.164.0/24 # musicmaker4life@comnet.com
 154.213.164.0/24 # 22jherrera@sandiaprep.org
+156.242.43.0/24 # papelesc@comnet.com
