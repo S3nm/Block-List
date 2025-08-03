@@ -20338,3 +20338,4 @@
 156.248.84.0/24 # cwarmuth@sandiaprep.org
 156.242.41.0/24 # 29jarmijo@sandiaprep.org
 156.242.32.0/24 # cperreard@sandiaprep.org
+156.242.33.0/24 # ethan.clawson@bosquestudents.org
