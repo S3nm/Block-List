@@ -20365,3 +20365,4 @@
 138.199.40.0/24 # tech
 138.199.40.0/24 # vpnupdate
 156.242.42.0/24 # 17atrujillo@sandiaprep.org
+154.213.167.0/24 # sortiz@sandiaprep.org
