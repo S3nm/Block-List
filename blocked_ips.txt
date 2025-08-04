@@ -20360,3 +20360,4 @@
 156.242.46.0/24 # buckj@comnet.com
 156.242.36.0/24 # 18yghanbari@sandiaprep.org
 154.213.160.0/24 # 18mdavidson@sandiaprep.org
+156.248.80.0/24 # efitz@bosqueschool.org
