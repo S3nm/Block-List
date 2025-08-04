@@ -20362,3 +20362,4 @@
 154.213.160.0/24 # 18mdavidson@sandiaprep.org
 156.248.80.0/24 # efitz@bosqueschool.org
 156.242.34.0/24 # crystal.wadin@calvaryabq.org
+138.199.40.0/24 # tech
