@@ -20369,3 +20369,8 @@
 154.213.161.0/24 # trudy.waddleton@calvaryabq.org
 156.248.83.0/24 # elgarcia@btblaw.com
 156.242.38.0/24 # redwards@btblaw.com
+194.104.143.0/24 # mphillips
+176.123.186.0/24 # aallen
+45.192.43.0/24 # mtaylor
+77.72.84.0/24 # along
+77.72.84.0/24 # jbailey
