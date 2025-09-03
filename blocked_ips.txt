@@ -20416,3 +20416,7 @@
 142.252.91.0/24 # pgant
 172.120.141.0/24 # jacquelynn.lamy
 156.233.0.0/24 # rboullion
+172.120.141.0/24 # rownda
+142.252.91.0/24 # jacquelynn.lamy
+172.120.71.0/24 # dmalool
+142.111.247.0/24 # etunison
