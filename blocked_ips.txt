@@ -20469,3 +20469,4 @@
 209.46.3.0/24 # nalbandiann
 173.209.233.0/24 # dandrson
 173.209.232.0/24 # juliet.allegretti
+50.118.198.0/24 # smith
