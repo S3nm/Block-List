@@ -20465,3 +20465,7 @@
 173.209.232.0/24 # pelinol
 209.46.3.0/24 # dmirarchi
 209.46.3.0/24 # ruthi.brandom
+173.209.232.0/24 # rboullion
+209.46.3.0/24 # nalbandiann
+173.209.233.0/24 # dandrson
+173.209.232.0/24 # juliet.allegretti
