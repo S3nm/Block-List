@@ -20698,3 +20698,4 @@
 216.26.224.0/24 # mniederkorn
 45.3.39.0/24 # emelihernandez
 45.3.35.0/24 # jlarabas
+65.111.10.0/24 # jrbaber
