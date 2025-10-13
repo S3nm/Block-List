@@ -20696,3 +20696,4 @@
 65.111.10.0/24 # cohenw
 209.50.167.0/24 # hpdtrafficenforcemen
 216.26.224.0/24 # mniederkorn
+45.3.39.0/24 # emelihernandez
