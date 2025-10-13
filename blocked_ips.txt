@@ -20653,3 +20653,4 @@
 45.3.34.0/24 # azadmin
 216.26.228.0/24 # daniellesoares
 65.111.6.0/24 # coltonoverway
+65.111.15.0/24 # jamestruax
