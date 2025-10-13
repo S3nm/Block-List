@@ -20692,3 +20692,4 @@
 65.111.2.0/24 # uhrigj
 216.26.230.0/24 # gracea
 216.26.229.0/24 # hernandezcarrillod
+65.111.10.0/24 # kkurnick
