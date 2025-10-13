@@ -20650,3 +20650,4 @@
 216.26.233.0/24 # cpiermattei
 193.56.28.0/24 # parretta
 45.3.37.0/24 # labzoltanp
+45.3.34.0/24 # azadmin
