@@ -20768,3 +20768,5 @@
 191.102.157.0/24 # shaderobinson
 91.242.127.0/24 # dpynos
 191.102.155.0/24 # hdoster
+191.102.157.0/24 # glodoril
+138.94.216.0/24 # physicalplant
