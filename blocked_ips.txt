@@ -20869,3 +20869,4 @@
 216.26.251.0/24 # administrator
 216.26.245.0/24 # administrator
 209.50.179.0/24 # administrator
+%%log.remip%% # %%log.user%%
