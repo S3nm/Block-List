@@ -20956,3 +20956,4 @@
 91.92.240.0/24 # backupadmin
 91.92.240.0/24 # service
 91.92.240.0/24 # reception
+91.92.240.0/24 # reception
