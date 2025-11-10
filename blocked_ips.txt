@@ -20901,3 +20901,4 @@
 %%log.remip%% # %%log.user%%
 91.92.240.0/24 # veritas
 91.92.240.0/24 # veritas
+91.92.240.0/24 # scanner
