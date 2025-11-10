@@ -20964,3 +20964,4 @@
 91.92.240.0/24 # hardware
 91.92.240.0/24 # backupexec
 91.92.240.0/24 # backupadmin
+91.92.240.0/24 # journal
