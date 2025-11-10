@@ -20899,3 +20899,4 @@
 %%log.remip%% # %%log.user%%
 36.255.98.0/24 # admin2
 %%log.remip%% # %%log.user%%
+91.92.240.0/24 # veritas
