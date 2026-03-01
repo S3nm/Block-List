@@ -19433,3 +19433,4 @@
 94.72.115.0/24 # LC4frontoffice
 206.123.144.0/24 # LC4ajvadmin
 206.123.144.0/24 # 004aiuadmin
+206.123.144.0/24 # LC4ajwadmin
