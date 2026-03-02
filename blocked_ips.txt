@@ -20282,3 +20282,4 @@
 206.123.144.0/24 # LC4arzadmin
 206.123.144.0/24 # LC4arzadmin
 206.123.144.0/24 # 004aqgadmin
+94.72.115.0/24 # LC4localadministrator
