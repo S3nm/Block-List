@@ -20540,3 +20540,4 @@
 206.123.144.0/24 # LC4aunadmin
 206.123.144.0/24 # 004asladmin
 206.123.144.0/24 # LC4aunadmin
+94.72.115.0/24 # LC4medicalcorp
