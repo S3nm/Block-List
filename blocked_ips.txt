@@ -10975,3 +10975,4 @@
 172.86.111.0/24 # LC4admin
 206.123.144.0/24 # LC4blwadmin
 192.253.248.0/24 # LC4jlamb
+%%log.remip%% # %%log.user%%
