@@ -11140,3 +11140,4 @@
 138.249.239.0/24 # aad_sync
 172.120.60.0/24 # elasticsearch
 166.88.161.0/24 # servicedesk
+138.249.218.0/24 # cassandra
