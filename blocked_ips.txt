@@ -11157,3 +11157,4 @@
 138.249.208.0/24 # servicedesk
 193.160.218.0/24 # prtg
 172.252.110.0/24 # svc-ncentral
+142.252.133.0/24 # servicedeskadmin
