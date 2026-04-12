@@ -11299,3 +11299,4 @@
 45.147.8.0/24 # administrator
 193.56.20.0/24 # administrator
 166.88.171.0/24 # administrator
+193.42.245.0/24 # administrator
