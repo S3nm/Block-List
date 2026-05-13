@@ -10012,7 +10012,6 @@
 206.123.144.0/24 # LC4bfmadmin
 94.72.115.0/24 # LC4rdp
 206.123.144.0/24 # LC4bfsadmin
-76.26.101.0/24 # 001clara.silva
 206.123.144.0/24 # LC4bfvadmin
 94.72.115.0/24 # LC4reception
 206.123.144.0/24 # 004bckadmin
