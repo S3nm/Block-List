@@ -11599,3 +11599,4 @@
 84.201.14.0/24 # administrator
 186.243.144.0/24 # admin_wm
 166.88.218.0/24 # administratorsvc
+153.80.84.0/24 # administratorvpn
