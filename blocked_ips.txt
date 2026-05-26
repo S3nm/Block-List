@@ -11544,3 +11544,4 @@
 186.246.57.0/24 # aaddsconnect
 186.246.104.0/24 # aaddsconnect
 141.133.45.0/24 # ___vmware_conv_sa___
+185.98.42.0/24 # ___vmware_conv_sa___
