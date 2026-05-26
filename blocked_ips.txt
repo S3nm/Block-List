@@ -11556,3 +11556,4 @@
 142.111.233.0/24 # adconnectorservice
 186.243.141.0/24 # admin
 153.80.115.0/24 # admin
+130.49.85.0/24 # admin_backup
