@@ -11618,3 +11618,4 @@
 136.234.241.0/24 # backupadmin
 186.246.103.0/24 # administrator2
 136.234.240.0/24 # base_result
+193.58.177.0/24 # administratorsvc
