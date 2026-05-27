@@ -11614,3 +11614,4 @@
 136.234.143.0/24 # aw_risk_scanner
 166.88.0.0/24 # aw_risk_scanner
 166.1.251.0/24 # backup
+193.47.32.0/24 # administrator_svc
