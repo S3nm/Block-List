@@ -11660,3 +11660,4 @@
 130.49.35.0/24 # defaultaccount2
 172.120.50.0/24 # mail
 168.80.81.0/24 # XAFServiceAccnt
+172.120.155.0/24 # domainadmin
