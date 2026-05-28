@@ -11661,3 +11661,4 @@
 172.120.50.0/24 # mail
 168.80.81.0/24 # XAFServiceAccnt
 172.120.155.0/24 # domainadmin
+153.80.11.0/24 # network
