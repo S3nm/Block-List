@@ -11658,3 +11658,4 @@
 130.49.72.0/24 # itsupport
 141.133.78.0/24 # local_admin
 130.49.35.0/24 # defaultaccount2
+172.120.50.0/24 # mail
