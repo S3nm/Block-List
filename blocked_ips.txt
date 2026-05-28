@@ -11672,3 +11672,4 @@
 172.120.53.0/24 # qbdataserviceuser30
 142.252.59.0/24 # gpadmin
 142.111.226.0/24 # remote
+192.177.24.0/24 # remote_user
