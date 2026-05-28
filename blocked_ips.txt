@@ -11669,3 +11669,4 @@
 172.120.195.0/24 # prtgprobe
 153.80.97.0/24 # public
 141.133.82.0/24 # qbdataserviceuser30
+172.120.53.0/24 # qbdataserviceuser30
