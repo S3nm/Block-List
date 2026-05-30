@@ -11701,3 +11701,4 @@
 186.243.198.0/24 # qbdataserviceuser1
 142.252.236.0/24 # azureadmin
 142.252.8.0/24 # azuresync
+172.120.48.0/24 # exchange_admin
