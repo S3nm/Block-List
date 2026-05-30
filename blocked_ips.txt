@@ -11698,3 +11698,4 @@
 186.243.239.0/24 # warehouse
 186.243.233.0/24 # qbdataserviceuser
 186.243.198.0/24 # xbdrake
+186.243.198.0/24 # qbdataserviceuser1
