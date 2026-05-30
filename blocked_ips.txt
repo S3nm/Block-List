@@ -11703,3 +11703,4 @@
 142.252.8.0/24 # azuresync
 172.120.48.0/24 # exchange_admin
 141.133.47.0/24 # exadmin
+186.243.149.0/24 # postmaster
