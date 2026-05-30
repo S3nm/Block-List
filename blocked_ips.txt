@@ -11700,3 +11700,4 @@
 186.243.198.0/24 # xbdrake
 186.243.198.0/24 # qbdataserviceuser1
 142.252.236.0/24 # azureadmin
+142.252.8.0/24 # azuresync
