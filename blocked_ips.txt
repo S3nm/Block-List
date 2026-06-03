@@ -11864,3 +11864,4 @@
 84.200.128.0/24 # administrator
 84.200.91.0/24 # administrator
 138.249.222.0/24 # chad.patterson
+186.243.172.0/24 # fbadgett
