@@ -11868,3 +11868,4 @@
 185.97.76.0/24 # lewis.cloud
 73.98.108.0/24 # administrator
 73.98.108.0/24 # administrator@zydeco66.com
+45.192.59.0/24 # chad.patterson
