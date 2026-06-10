@@ -11946,3 +11946,4 @@
 38.146.25.0/24 # futurology
 38.146.25.0/24 # futurologists
 155.117.20.0/24 # futuritions
+155.117.20.0/24 # fuzee
