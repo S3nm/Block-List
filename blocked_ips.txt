@@ -11914,3 +11914,4 @@
 124.198.132.0/24 # futilenesses
 38.110.228.0/24 # futons
 124.198.132.0/24 # fustilarians
+151.241.99.0/24 # futchels
