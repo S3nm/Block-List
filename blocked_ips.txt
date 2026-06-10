@@ -11921,3 +11921,4 @@
 38.110.228.0/24 # futhorks
 103.208.84.0/24 # furtive
 23.27.180.0/24 # futilitarianism
+38.146.28.0/24 # futurists
