@@ -11888,3 +11888,4 @@
 124.198.132.0/24 # futilely
 38.110.228.0/24 # fustigators
 23.27.180.0/24 # fustigation
+23.27.180.0/24 # fustics
