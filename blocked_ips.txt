@@ -11954,3 +11954,4 @@
 158.62.198.0/24 # futurition
 38.96.31.0/24 # fuzzbox
 23.27.180.0/24 # futuristics
+23.27.180.0/24 # futilities
