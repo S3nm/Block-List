@@ -11871,3 +11871,4 @@
 45.192.63.0/24 # venita.coffee
 141.133.126.0/24 # network
 38.110.228.0/24 # fustanella
+158.62.198.0/24 # fustigated
