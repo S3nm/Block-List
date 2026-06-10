@@ -11897,3 +11897,4 @@
 23.27.180.0/24 # fustiest
 23.27.180.0/24 # fustianized
 38.146.25.0/24 # fustigations
+124.198.131.0/24 # futilest
