@@ -11870,3 +11870,4 @@
 154.195.168.0/24 # lewis.cloud
 45.192.63.0/24 # venita.coffee
 141.133.126.0/24 # network
+38.110.228.0/24 # fustanella
