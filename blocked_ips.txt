@@ -11947,3 +11947,4 @@
 38.146.25.0/24 # futurologists
 155.117.20.0/24 # futuritions
 155.117.20.0/24 # fuzee
+45.88.186.0/24 # fustiness
