@@ -11890,3 +11890,4 @@
 23.27.180.0/24 # fustigation
 23.27.180.0/24 # fustics
 151.241.99.0/24 # futilitarians
+202.155.8.0/24 # futharcs
