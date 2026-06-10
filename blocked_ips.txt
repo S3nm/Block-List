@@ -11936,3 +11936,4 @@
 38.110.228.0/24 # futurelessnesses
 45.88.186.0/24 # futtocks
 158.62.198.0/24 # futurological
+45.88.186.0/24 # fuze
