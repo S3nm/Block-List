@@ -11932,3 +11932,4 @@
 45.88.186.0/24 # futileness
 103.208.84.0/24 # fusees
 38.110.228.0/24 # futilitarianisms
+38.146.28.0/24 # futsal
