@@ -11941,3 +11941,4 @@
 155.117.20.0/24 # futurelessness
 158.62.198.0/24 # fustocs
 45.88.186.0/24 # futurologies
+45.88.186.0/24 # futon
