@@ -11924,3 +11924,4 @@
 38.146.28.0/24 # futurists
 38.146.25.0/24 # futuristically
 124.198.132.0/24 # futhork
+23.27.180.0/24 # futharc
