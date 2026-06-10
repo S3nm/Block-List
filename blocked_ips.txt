@@ -11873,3 +11873,4 @@
 38.110.228.0/24 # fustanella
 158.62.198.0/24 # fustigated
 38.146.25.0/24 # fustanelle
+38.146.25.0/24 # futharks
