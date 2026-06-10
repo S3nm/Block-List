@@ -11918,3 +11918,4 @@
 45.88.186.0/24 # futchel
 45.88.186.0/24 # fustilarian
 23.27.180.0/24 # fustilirians
+38.110.228.0/24 # futhorks
