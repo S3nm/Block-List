@@ -12061,3 +12061,4 @@
 186.243.194.0/24 # thechadisgreat
 154.195.101.0/24 # fred.badgett
 154.195.178.0/24 # fred.badgett
+186.243.192.0/24 # rlackey
