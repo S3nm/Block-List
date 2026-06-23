@@ -12060,3 +12060,4 @@
 154.196.61.0/24 # jackie.herrera
 186.243.194.0/24 # thechadisgreat
 154.195.101.0/24 # fred.badgett
+154.195.178.0/24 # fred.badgett
