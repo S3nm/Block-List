@@ -12086,3 +12086,4 @@
 5.181.181.0/24 # bradley
 138.249.169.0/24 # venita.coffee
 154.195.157.0/24 # venita.coffee
+154.195.164.0/24 # chad.patterson
