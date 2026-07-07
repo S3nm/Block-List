@@ -12175,3 +12175,4 @@
 45.143.155.0/24 # steve.giron
 154.194.107.0/24 # jonathan.garcia
 154.196.74.0/24 # kristy.anderson
+136.234.250.0/24 # thechadisgreat
