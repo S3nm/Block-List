@@ -12178,3 +12178,4 @@
 136.234.250.0/24 # thechadisgreat
 154.209.138.0/24 # jgarcia
 45.145.2.0/24 # daniel.willis
+154.195.148.0/24 # dean.jones
