@@ -12177,3 +12177,4 @@
 154.196.74.0/24 # kristy.anderson
 136.234.250.0/24 # thechadisgreat
 154.209.138.0/24 # jgarcia
+45.145.2.0/24 # daniel.willis
