@@ -12201,3 +12201,4 @@
 153.80.140.0/24 # fred.badgett
 82.117.95.0/24 # venita.coffee
 154.194.110.0/24 # venita.coffee
+154.223.215.0/24 # soeschger
