@@ -12199,3 +12199,4 @@
 186.240.186.0/24 # tgustafson
 154.196.51.0/24 # jonathan.garcia
 153.80.140.0/24 # fred.badgett
+82.117.95.0/24 # venita.coffee
