@@ -12198,3 +12198,4 @@
 138.249.237.0/24 # kurt.johnson
 186.240.186.0/24 # tgustafson
 154.196.51.0/24 # jonathan.garcia
+153.80.140.0/24 # fred.badgett
