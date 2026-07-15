@@ -12228,3 +12228,4 @@
 154.196.89.0/24 # steve.mills
 141.133.100.0/24 # jonathan.garcia
 154.196.38.0/24 # jonathan.garcia
+154.196.87.0/24 # fbadgett
