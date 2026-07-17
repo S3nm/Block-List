@@ -12235,3 +12235,4 @@
 124.198.132.0/24 # administrator
 124.198.131.0/24 # administrator
 193.26.115.0/24 # administrator
+64.188.91.0/24 # samsung
