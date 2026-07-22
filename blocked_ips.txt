@@ -12237,3 +12237,4 @@
 193.26.115.0/24 # administrator
 64.188.91.0/24 # samsung
 64.188.91.0/24 # siemens
+176.101.58.0/24 # kurt.johnson
