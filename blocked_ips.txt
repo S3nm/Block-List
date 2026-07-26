@@ -12303,3 +12303,4 @@
 194.156.95.0/24 # fred.badgett
 154.195.191.0/24 # steve.mills
 186.243.171.0/24 # arnold.bronson
+154.194.105.0/24 # arnold.bronson
