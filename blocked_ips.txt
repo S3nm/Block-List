@@ -12312,3 +12312,4 @@
 154.194.124.0/24 # kurt.johnson
 200.225.162.0/24 # cameron.russell
 168.113.117.0/24 # chad.patterson
+154.194.120.0/24 # chad.patterson
