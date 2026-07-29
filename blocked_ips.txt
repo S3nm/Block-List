@@ -12311,3 +12311,4 @@
 216.106.187.0/24 # test
 154.194.124.0/24 # kurt.johnson
 200.225.162.0/24 # cameron.russell
+168.113.117.0/24 # chad.patterson
