@@ -12330,3 +12330,4 @@
 45.136.69.0/24 # bmitchell
 154.195.115.0/24 # lewis.cloud
 154.196.56.0/24 # thechadisgreat
+154.195.188.0/24 # arnold.bronson
