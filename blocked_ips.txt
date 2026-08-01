@@ -12335,3 +12335,4 @@
 45.132.207.0/24 # amoreena.unale
 154.194.117.0/24 # david.orso
 154.194.111.0/24 # pmontanez
+186.243.178.0/24 # chad.patterson
