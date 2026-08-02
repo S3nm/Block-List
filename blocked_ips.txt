@@ -12342,3 +12342,4 @@
 154.194.104.0/24 # crussell
 154.195.25.0/24 # jonathan.garcia
 187.126.32.0/24 # cjjbeach
+154.195.96.0/24 # fred.badgett
