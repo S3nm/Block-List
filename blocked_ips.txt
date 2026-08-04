@@ -12566,3 +12566,4 @@
 154.196.44.0/24 # lewis.cloud
 154.195.106.0/24 # fred.badgett
 154.195.28.0/24 # jackie.herrera
+172.86.122.0/24 # common
