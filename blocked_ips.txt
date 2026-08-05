@@ -12621,3 +12621,4 @@
 62.204.34.0/24 # jonathan.garcia
 141.133.32.0/24 # cameron.russell
 138.249.58.0/24 # kla5606
+154.196.77.0/24 # lewis.cloud
