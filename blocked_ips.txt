@@ -12641,3 +12641,4 @@
 154.195.132.0/24 # cameron.russell
 154.195.122.0/24 # billy.mitchell
 154.195.105.0/24 # cathy.bunn
+154.196.54.0/24 # david.orso
