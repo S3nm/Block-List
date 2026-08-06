@@ -12634,3 +12634,4 @@
 154.194.71.0/24 # thechadisgreat
 168.113.25.0/24 # kristy.anderson
 154.195.126.0/24 # jackie.herrera
+154.196.71.0/24 # arnoldbronson
