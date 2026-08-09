@@ -12657,3 +12657,4 @@
 172.111.246.0/24 # jjones
 154.195.186.0/24 # chad.patterson
 154.195.167.0/24 # kurt.johnson
+154.195.113.0/24 # lewis.cloud
