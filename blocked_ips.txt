@@ -12670,3 +12670,4 @@
 180.131.145.0/24 # natashay
 180.131.145.0/24 # natashat
 45.136.248.0/24 # kristy.anderson
+154.195.176.0/24 # jackie.herrera
