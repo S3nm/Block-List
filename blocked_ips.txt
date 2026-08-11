@@ -12672,3 +12672,4 @@
 45.136.248.0/24 # kristy.anderson
 154.195.176.0/24 # jackie.herrera
 77.83.25.0/24 # admin
+82.117.91.0/24 # cpatterson
