@@ -12678,3 +12678,4 @@
 193.33.188.0/24 # smills
 156.229.1.0/24 # fred.badgett
 45.144.0.0/24 # david.orso
+194.26.136.0/24 # kristy.anderson
