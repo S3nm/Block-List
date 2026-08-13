@@ -12693,3 +12693,4 @@
 136.234.249.0/24 # thechadisgreat
 155.212.126.0/24 # steve.giron
 152.234.161.0/24 # rlackey
+154.196.52.0/24 # fbadgett
