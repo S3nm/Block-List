@@ -12708,3 +12708,4 @@
 168.113.20.0/24 # kanderson
 154.196.63.0/24 # csteelebunn
 88.218.187.0/24 # lewis.cloud
+212.6.36.0/24 # fbadgett
