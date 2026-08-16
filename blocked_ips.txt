@@ -12724,3 +12724,4 @@
 177.202.192.0/24 # kwhitson
 200.225.161.0/24 # kjohnson
 200.225.167.0/24 # esolisgonzalez
+177.202.205.0/24 # esolis-gonzalez
