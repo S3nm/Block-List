@@ -12730,3 +12730,4 @@
 130.49.31.0/24 # thechadisgreat
 177.1.52.0/24 # oadesina
 154.195.114.0/24 # djones
+187.126.45.0/24 # esolisgonzalez
