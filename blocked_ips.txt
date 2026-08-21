@@ -12741,3 +12741,4 @@
 23.165.8.0/24 # brenda
 201.4.113.0/24 # lbozinovich
 170.168.207.0/24 # jackie.herrera
+154.195.133.0/24 # thechadisgreat
