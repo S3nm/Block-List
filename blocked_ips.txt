@@ -12754,3 +12754,4 @@
 154.195.99.0/24 # pmontanez
 130.49.101.0/24 # arnold.broson
 177.1.49.0/24 # fbadgett
+187.52.205.0/24 # arnold.bronson
