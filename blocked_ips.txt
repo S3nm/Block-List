@@ -12760,3 +12760,4 @@
 187.52.195.0/24 # garland.staebell
 130.49.110.0/24 # cameron.russell
 154.194.93.0/24 # arnold.broson
+187.126.47.0/24 # cbeach
