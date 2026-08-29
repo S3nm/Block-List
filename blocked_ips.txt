@@ -12792,3 +12792,4 @@
 187.126.33.0/24 # darren.gobin
 138.249.215.0/24 # cameron.russell
 130.49.51.0/24 # pedro.montanez
+154.196.82.0/24 # arnold.bronson
