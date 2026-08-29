@@ -12793,3 +12793,4 @@
 138.249.215.0/24 # cameron.russell
 130.49.51.0/24 # pedro.montanez
 154.196.82.0/24 # arnold.bronson
+186.240.179.0/24 # kurt.johnson
