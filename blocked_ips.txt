@@ -12810,3 +12810,4 @@
 187.52.200.0/24 # pmontanez
 200.225.168.0/24 # cpatterson
 186.240.185.0/24 # jfreddy
+154.196.79.0/24 # jackie.herrera
