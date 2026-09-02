@@ -12816,3 +12816,4 @@
 73.127.242.0/24 # ian.wilson
 154.196.57.0/24 # thechadisgreat
 154.195.137.0/24 # darren.gobin
+136.234.253.0/24 # fbadgett
