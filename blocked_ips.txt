@@ -12808,3 +12808,4 @@
 201.4.111.0/24 # kwhitson
 154.195.175.0/24 # venita.coffee
 187.52.200.0/24 # pmontanez
+200.225.168.0/24 # cpatterson
