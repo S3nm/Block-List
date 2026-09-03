@@ -12824,3 +12824,4 @@
 187.126.35.0/24 # jermaine.kettenring
 177.1.59.0/24 # hgamboa
 177.1.56.0/24 # arnold.broson
+154.195.7.0/24 # kanderson
