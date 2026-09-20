@@ -12853,3 +12853,4 @@
 187.52.192.0/24 # dgobin
 154.195.146.0/24 # rlackey
 187.15.30.0/24 # kristy.anderson
+154.194.92.0/24 # daniel.willis
