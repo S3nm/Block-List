@@ -12861,3 +12861,4 @@
 13.143.247.0/24 # searching
 13.143.144.0/24 # screened
 185.241.211.0/24 # scintillator
+13.143.144.0/24 # sectoring
