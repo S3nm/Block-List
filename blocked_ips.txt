@@ -12864,3 +12864,4 @@
 13.143.144.0/24 # sectoring
 13.143.144.0/24 # scripting
 13.143.144.0/24 # scattering
+13.143.144.0/24 # scintillating
