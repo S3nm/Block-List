@@ -12866,3 +12866,4 @@
 13.143.144.0/24 # scattering
 13.143.144.0/24 # scintillating
 13.143.144.0/24 # scrambler
+13.143.144.0/24 # scored
