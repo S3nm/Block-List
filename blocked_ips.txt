@@ -12998,3 +12998,4 @@
 172.86.91.0/24 # generalized
 172.86.91.0/24 # generation
 172.86.91.0/24 # generating
+124.198.132.0/24 # gateways
