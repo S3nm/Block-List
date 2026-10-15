@@ -13035,3 +13035,4 @@
 172.86.91.0/24 # geodimeter
 172.86.91.0/24 # genlock
 172.86.91.0/24 # geotomography
+124.198.132.0/24 # geomagnetism
