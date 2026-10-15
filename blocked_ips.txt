@@ -13033,3 +13033,4 @@
 172.86.91.0/24 # genesis
 172.86.91.0/24 # geostationary
 172.86.91.0/24 # geodimeter
+172.86.91.0/24 # genlock
