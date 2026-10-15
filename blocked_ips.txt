@@ -13020,3 +13020,4 @@
 172.86.91.0/24 # geographical
 192.159.99.0/24 # generator
 172.86.91.0/24 # generative
+185.241.211.0/24 # generalization
