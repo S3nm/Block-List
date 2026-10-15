@@ -13037,3 +13037,4 @@
 172.86.91.0/24 # geotomography
 124.198.132.0/24 # geomagnetism
 172.86.91.0/24 # geothermal
+172.86.91.0/24 # geometrically
