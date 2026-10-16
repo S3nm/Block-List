@@ -14050,3 +14050,4 @@
 172.86.91.0/24 # psophometric
 124.198.131.0/24 # pseudokey
 124.198.132.0/24 # pseudoscopic
+172.86.91.0/24 # ptera
