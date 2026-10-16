@@ -13648,3 +13648,4 @@
 172.86.91.0/24 # photolayer
 172.86.91.0/24 # photomaster
 172.86.91.0/24 # photomultiplier
+172.86.91.0/24 # photojunction
