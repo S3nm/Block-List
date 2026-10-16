@@ -15291,3 +15291,4 @@
 124.198.131.0/24 # substituted
 124.198.132.0/24 # subtractive
 185.241.211.0/24 # subtransit
+124.198.132.0/24 # subsume
