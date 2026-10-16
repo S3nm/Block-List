@@ -16354,3 +16354,4 @@
 172.86.91.0/24 # acousto
 172.86.91.0/24 # acoustoelectronics
 172.86.91.0/24 # acoustooptic
+172.86.91.0/24 # acoustoresistive
