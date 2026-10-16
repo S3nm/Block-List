@@ -13671,3 +13671,4 @@
 172.86.91.0/24 # photoresistor
 172.86.91.0/24 # photorecombination
 185.241.211.0/24 # phototile
+172.86.91.0/24 # photovoltage
