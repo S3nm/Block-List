@@ -13554,3 +13554,4 @@
 124.198.132.0/24 # permeameter
 172.86.91.0/24 # permissible
 172.86.91.0/24 # periphonic
+172.86.91.0/24 # permittivity
