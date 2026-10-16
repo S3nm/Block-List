@@ -14339,3 +14339,4 @@
 124.198.131.0/24 # refrigence
 172.86.91.0/24 # refractometer
 192.159.99.0/24 # refract
+172.86.91.0/24 # refraction
