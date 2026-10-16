@@ -14167,3 +14167,4 @@
 172.86.91.0/24 # radiometeorograph
 172.86.91.0/24 # radiometric
 185.241.211.0/24 # radiographic
+124.198.132.0/24 # radiocommunication
