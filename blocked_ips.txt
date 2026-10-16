@@ -15498,3 +15498,4 @@
 172.86.91.0/24 # telephon
 172.86.91.0/24 # teletext
 172.86.91.0/24 # telephonie
+124.198.132.0/24 # telerecording
