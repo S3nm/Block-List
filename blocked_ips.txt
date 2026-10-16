@@ -16401,3 +16401,4 @@
 172.86.91.0/24 # adjuster
 172.86.91.0/24 # administrations
 172.86.91.0/24 # administering
+172.86.91.0/24 # adobe
