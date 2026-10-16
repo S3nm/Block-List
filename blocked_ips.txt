@@ -14047,3 +14047,4 @@
 192.159.99.0/24 # pseudoautovariance
 172.86.91.0/24 # pseudoprime
 124.198.132.0/24 # pseudoorder
+172.86.91.0/24 # psophometric
