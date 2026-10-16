@@ -15491,3 +15491,4 @@
 172.86.91.0/24 # telegraphic
 124.198.132.0/24 # teleoperation
 172.86.91.0/24 # teleconference
+172.86.91.0/24 # telegram
