@@ -14179,3 +14179,4 @@
 172.86.91.0/24 # radionavigation
 124.198.131.0/24 # radioteletype
 172.86.91.0/24 # radiopager
+185.241.211.0/24 # radioteletypewriter
