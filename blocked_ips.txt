@@ -15507,3 +15507,4 @@
 124.198.131.0/24 # teller
 172.86.91.0/24 # telesupervision
 172.86.91.0/24 # teletex
+172.86.91.0/24 # teletypewriter
