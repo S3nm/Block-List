@@ -15329,3 +15329,4 @@
 172.86.91.0/24 # superconductor
 124.198.132.0/24 # superencipherment
 172.86.91.0/24 # superheterodyne
+172.86.91.0/24 # superfluidity
