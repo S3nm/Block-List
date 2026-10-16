@@ -15617,3 +15617,4 @@
 172.86.91.0/24 # theses
 172.86.91.0/24 # thicken
 185.241.211.0/24 # thermoplastic
+172.86.91.0/24 # thermomagnetic
