@@ -13864,3 +13864,4 @@
 124.198.132.0/24 # predicate
 124.198.132.0/24 # precursor
 172.86.91.0/24 # precomputed
+172.86.91.0/24 # preconfigured
