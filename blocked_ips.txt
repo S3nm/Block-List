@@ -14172,3 +14172,4 @@
 124.198.132.0/24 # radiohorizon
 172.86.91.0/24 # radiograph
 172.86.91.0/24 # radiological
+172.86.91.0/24 # radiotelescope
