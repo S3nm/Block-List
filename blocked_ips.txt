@@ -15407,3 +15407,4 @@
 172.86.91.0/24 # syllabically
 172.86.91.0/24 # synchronized
 124.198.132.0/24 # symbolical
+172.86.91.0/24 # syndetic
