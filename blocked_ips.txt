@@ -15612,3 +15612,4 @@
 172.86.91.0/24 # thermoconductivity
 172.86.91.0/24 # thermo
 124.198.132.0/24 # thermionic
+124.198.132.0/24 # thermomigration
