@@ -15326,3 +15326,4 @@
 172.86.91.0/24 # supercritically
 172.86.91.0/24 # superdirectional
 192.159.99.0/24 # superdirectivity
+172.86.91.0/24 # superconductor
