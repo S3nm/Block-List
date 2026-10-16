@@ -15348,3 +15348,4 @@
 185.241.211.0/24 # supervision
 124.198.132.0/24 # superpolynomial
 172.86.91.0/24 # superradiant
+172.86.91.0/24 # superregeneration
