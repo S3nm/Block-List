@@ -15640,3 +15640,4 @@
 124.198.132.0/24 # threatrisk
 172.86.91.0/24 # thresholder
 172.86.91.0/24 # through
+124.198.132.0/24 # thyristor
