@@ -14688,3 +14688,4 @@
 172.86.91.0/24 # school
 172.86.91.0/24 # scientific
 124.198.132.0/24 # schlieren
+172.86.91.0/24 # schwarzschild
