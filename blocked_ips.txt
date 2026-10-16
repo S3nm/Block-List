@@ -13823,3 +13823,4 @@
 124.198.132.0/24 # postexposure
 124.198.132.0/24 # posting
 172.86.91.0/24 # posttrigger
+172.86.91.0/24 # potogalvanic
