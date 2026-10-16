@@ -14760,3 +14760,4 @@
 172.86.91.0/24 # semilog
 172.86.91.0/24 # semilenticular
 172.86.91.0/24 # semigraceful
+124.198.132.0/24 # semimechanical
