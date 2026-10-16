@@ -13694,3 +13694,4 @@
 172.86.91.0/24 # piezoid
 185.241.211.0/24 # pieces
 185.241.211.0/24 # piezomagnetism
+124.198.132.0/24 # piezothermal
