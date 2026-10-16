@@ -14158,3 +14158,4 @@
 172.86.91.0/24 # radioacoustic
 124.198.132.0/24 # radiancy
 172.86.91.0/24 # radiationless
+172.86.91.0/24 # radioastronomic
