@@ -14165,3 +14165,4 @@
 192.159.99.0/24 # radiography
 172.86.91.0/24 # radioman
 172.86.91.0/24 # radiometeorograph
+172.86.91.0/24 # radiometric
