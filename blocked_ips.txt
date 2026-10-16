@@ -14351,3 +14351,4 @@
 185.241.211.0/24 # regenerative
 124.198.132.0/24 # registry
 172.86.91.0/24 # registrate
+172.86.91.0/24 # register
