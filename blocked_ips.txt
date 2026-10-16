@@ -15274,3 +15274,4 @@
 172.86.91.0/24 # subreflector
 172.86.91.0/24 # subsampling
 172.86.91.0/24 # subsidiary
+124.198.132.0/24 # subscripting
