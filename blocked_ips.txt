@@ -14175,3 +14175,4 @@
 172.86.91.0/24 # radiotelescope
 124.198.132.0/24 # radiometeorology
 124.198.132.0/24 # radiotransparent
+124.198.132.0/24 # radome
