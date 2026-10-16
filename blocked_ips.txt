@@ -15484,3 +15484,4 @@
 124.198.132.0/24 # technology
 172.86.91.0/24 # telecommute
 124.198.131.0/24 # teleautograph
+172.86.91.0/24 # telecommand
