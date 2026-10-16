@@ -14515,3 +14515,4 @@
 172.86.91.0/24 # retarder
 172.86.91.0/24 # retransmission
 124.198.132.0/24 # retry
+172.86.91.0/24 # retentivity
