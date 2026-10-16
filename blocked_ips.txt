@@ -14749,3 +14749,4 @@
 172.86.91.0/24 # semiactive
 172.86.91.0/24 # semanteme
 124.198.132.0/24 # selectivity
+124.198.132.0/24 # semiconcentrating
