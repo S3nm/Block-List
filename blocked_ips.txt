@@ -15346,3 +15346,4 @@
 172.86.91.0/24 # superstation
 124.198.131.0/24 # supersampling
 185.241.211.0/24 # supervision
+124.198.132.0/24 # superpolynomial
