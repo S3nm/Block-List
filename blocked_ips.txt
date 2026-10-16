@@ -15509,3 +15509,4 @@
 172.86.91.0/24 # teletex
 172.86.91.0/24 # teletypewriter
 172.86.91.0/24 # teletype
+172.86.91.0/24 # templates
