@@ -14683,3 +14683,4 @@
 172.86.91.0/24 # schubnikov
 124.198.132.0/24 # schrieffer
 124.198.132.0/24 # scintillator
+185.241.211.0/24 # schmit
