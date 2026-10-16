@@ -14182,3 +14182,4 @@
 185.241.211.0/24 # radioteletypewriter
 172.86.91.0/24 # railed
 192.159.99.0/24 # radiothermics
+124.198.132.0/24 # rainfall
