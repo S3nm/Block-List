@@ -15493,3 +15493,4 @@
 172.86.91.0/24 # teleconference
 172.86.91.0/24 # telegram
 172.86.91.0/24 # telemetric
+172.86.91.0/24 # teleprinter
