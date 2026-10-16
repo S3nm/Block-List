@@ -14285,3 +14285,4 @@
 172.86.91.0/24 # recordable
 124.198.132.0/24 # reconstruction
 124.198.131.0/24 # record
+172.86.91.0/24 # rectenna
