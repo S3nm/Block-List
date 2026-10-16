@@ -13622,3 +13622,4 @@
 185.241.211.0/24 # photodevice
 172.86.91.0/24 # photocopier
 124.198.132.0/24 # photoconductive
+172.86.91.0/24 # photodynamic
