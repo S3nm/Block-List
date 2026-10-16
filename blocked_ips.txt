@@ -15321,3 +15321,4 @@
 124.198.132.0/24 # superconductors
 124.198.131.0/24 # sunseeker
 124.198.132.0/24 # supercurrent
+124.198.132.0/24 # superencryption
