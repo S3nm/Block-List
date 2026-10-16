@@ -15026,3 +15026,4 @@
 185.241.211.0/24 # specified
 172.86.91.0/24 # speakerphone
 124.198.132.0/24 # spark
+172.86.91.0/24 # specifications
