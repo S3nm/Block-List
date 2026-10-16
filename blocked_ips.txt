@@ -15546,3 +15546,4 @@
 172.86.91.0/24 # terminals
 172.86.91.0/24 # teraohmmeter
 124.198.132.0/24 # tension
+172.86.91.0/24 # terminology
