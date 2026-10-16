@@ -14155,3 +14155,4 @@
 172.86.91.0/24 # radarscope
 124.198.132.0/24 # radiation
 124.198.132.0/24 # radarsonde
+172.86.91.0/24 # radioacoustic
