@@ -14154,3 +14154,4 @@
 124.198.132.0/24 # radarproof
 172.86.91.0/24 # radarscope
 124.198.132.0/24 # radiation
+124.198.132.0/24 # radarsonde
