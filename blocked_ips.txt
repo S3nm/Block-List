@@ -13629,3 +13629,4 @@
 172.86.91.0/24 # photodiode
 172.86.91.0/24 # photodetector
 172.86.91.0/24 # photodielectric
+172.86.91.0/24 # photoelectromotive
