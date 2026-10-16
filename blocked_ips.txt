@@ -15374,3 +15374,4 @@
 172.86.91.0/24 # surround
 185.241.211.0/24 # susceptible
 172.86.91.0/24 # surplus
+124.198.132.0/24 # susceptibility
