@@ -13658,3 +13658,4 @@
 172.86.91.0/24 # photopro
 172.86.91.0/24 # photopolymer
 124.198.131.0/24 # photomask
+124.198.132.0/24 # photoparamp
