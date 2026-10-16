@@ -13651,3 +13651,4 @@
 172.86.91.0/24 # photojunction
 172.86.91.0/24 # photomixing
 124.198.132.0/24 # photolysis
+124.198.132.0/24 # photoinjection
