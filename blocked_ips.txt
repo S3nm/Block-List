@@ -15495,3 +15495,4 @@
 172.86.91.0/24 # telemetric
 172.86.91.0/24 # teleprinter
 172.86.91.0/24 # telesynd
+172.86.91.0/24 # telephon
