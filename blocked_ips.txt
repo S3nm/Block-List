@@ -14176,3 +14176,4 @@
 124.198.132.0/24 # radiometeorology
 124.198.132.0/24 # radiotransparent
 124.198.132.0/24 # radome
+172.86.91.0/24 # radionavigation
