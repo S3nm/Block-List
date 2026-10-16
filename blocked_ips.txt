@@ -16314,3 +16314,4 @@
 172.86.91.0/24 # abundant
 172.86.91.0/24 # accelerometer
 172.86.91.0/24 # accent
+172.86.91.0/24 # acceleration
