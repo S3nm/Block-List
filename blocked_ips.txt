@@ -14491,3 +14491,4 @@
 172.86.91.0/24 # resonate
 172.86.91.0/24 # resource
 124.198.131.0/24 # resources
+124.198.132.0/24 # responsiveness
