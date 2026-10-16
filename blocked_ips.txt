@@ -13668,3 +13668,4 @@
 172.86.91.0/24 # photoreceptor
 172.86.91.0/24 # photoprocessing
 124.198.132.0/24 # photosensitized
+172.86.91.0/24 # photoresistor
