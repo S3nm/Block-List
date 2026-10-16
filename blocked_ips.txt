@@ -16304,3 +16304,4 @@
 172.86.91.0/24 # abscissa
 172.86.91.0/24 # absorbtion
 172.86.91.0/24 # absorber
+172.86.91.0/24 # absorptance
