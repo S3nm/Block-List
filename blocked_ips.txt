@@ -15603,3 +15603,4 @@
 172.86.91.0/24 # therm
 172.86.91.0/24 # thermistor
 172.86.91.0/24 # thermoammeter
+172.86.91.0/24 # thermodynamically
