@@ -15335,3 +15335,4 @@
 172.86.91.0/24 # superhighway
 124.198.132.0/24 # supergraph
 192.159.99.0/24 # supermendur
+172.86.91.0/24 # superpower
