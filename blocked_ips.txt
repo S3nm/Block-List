@@ -14178,3 +14178,4 @@
 124.198.132.0/24 # radome
 172.86.91.0/24 # radionavigation
 124.198.131.0/24 # radioteletype
+172.86.91.0/24 # radiopager
