@@ -13549,3 +13549,4 @@
 172.86.91.0/24 # peritectic
 124.198.132.0/24 # permalloy
 172.86.91.0/24 # permissibility
+172.86.91.0/24 # peripherals
