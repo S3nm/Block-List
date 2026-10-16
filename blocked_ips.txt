@@ -14181,3 +14181,4 @@
 172.86.91.0/24 # radiopager
 185.241.211.0/24 # radioteletypewriter
 172.86.91.0/24 # railed
+192.159.99.0/24 # radiothermics
