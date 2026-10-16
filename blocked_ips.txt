@@ -14756,3 +14756,4 @@
 172.86.91.0/24 # semicolon
 172.86.91.0/24 # self
 172.86.91.0/24 # semicondactor
+172.86.91.0/24 # semiconducting
