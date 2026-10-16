@@ -15031,3 +15031,4 @@
 185.241.211.0/24 # specificate
 124.198.132.0/24 # specifies
 172.86.91.0/24 # speckle
+124.198.132.0/24 # spectrograph
