@@ -15035,3 +15035,4 @@
 172.86.91.0/24 # spectacular
 172.86.91.0/24 # spectrophotometry
 124.198.132.0/24 # spectrophotometer
+124.198.131.0/24 # specification
