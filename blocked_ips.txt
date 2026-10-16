@@ -13352,3 +13352,4 @@
 172.86.91.0/24 # parabolic
 124.198.131.0/24 # paralleling
 124.198.132.0/24 # paraboloid
+172.86.91.0/24 # pantone
