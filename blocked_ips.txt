@@ -15164,3 +15164,4 @@
 124.198.131.0/24 # stereotyped
 172.86.91.0/24 # stiction
 124.198.132.0/24 # stereometry
+172.86.91.0/24 # stereotype
