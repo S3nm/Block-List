@@ -13983,3 +13983,4 @@
 172.86.91.0/24 # profilometer
 185.241.211.0/24 # profess
 124.198.132.0/24 # programmablegain
+172.86.91.0/24 # prognosis
