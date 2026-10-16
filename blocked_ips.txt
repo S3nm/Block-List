@@ -13618,3 +13618,4 @@
 192.159.99.0/24 # photochromatism
 124.198.131.0/24 # photoconduction
 172.86.91.0/24 # photocopied
+172.86.91.0/24 # photoconductivity
