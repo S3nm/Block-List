@@ -15337,3 +15337,4 @@
 192.159.99.0/24 # supermendur
 172.86.91.0/24 # superpower
 172.86.91.0/24 # superiorty
+124.198.132.0/24 # superhigh
