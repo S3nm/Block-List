@@ -14091,3 +14091,4 @@
 124.198.131.0/24 # pyricon
 172.86.91.0/24 # quadding
 172.86.91.0/24 # pyramiding
+172.86.91.0/24 # pyromagnetism
