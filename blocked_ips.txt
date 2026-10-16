@@ -13744,3 +13744,4 @@
 172.86.91.0/24 # polarizability
 172.86.91.0/24 # polarition
 172.86.91.0/24 # poisoning
+124.198.132.0/24 # poker
