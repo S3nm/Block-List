@@ -13369,3 +13369,4 @@
 124.198.132.0/24 # parant
 172.86.91.0/24 # paramagnetism
 124.198.132.0/24 # paradoxical
+185.241.211.0/24 # paramagnon
