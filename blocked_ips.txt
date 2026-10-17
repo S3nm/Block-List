@@ -16495,3 +16495,4 @@
 156.248.23.0/24 # cking
 138.249.209.0/24 # amy.montoya
 185.78.79.0/24 # cameron.russell
+136.234.130.0/24 # chad.patterson
