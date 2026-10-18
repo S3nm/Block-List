@@ -16498,3 +16498,4 @@
 136.234.130.0/24 # chad.patterson
 154.195.109.0/24 # cpatterson
 152.234.173.0/24 # billy.mitchell
+186.246.73.0/24 # chad.patterson
