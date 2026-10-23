@@ -16580,3 +16580,4 @@
 154.195.117.0/24 # billy.mitchell
 154.194.112.0/24 # fred.badgett
 154.196.22.0/24 # jherrera
+154.196.34.0/24 # kjohnson
